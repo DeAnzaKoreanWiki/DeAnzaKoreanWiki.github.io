@@ -9,9 +9,10 @@ regenerate: true
 
 ## wiki items
 
+
 * [[how-to]]
-* [[howtotransfer.md|편입 방법]]
-* [[majorNschool selection.md|전공 및 학교 선택]]
-* 
+* [[howtotransfer]]{편입방법}
+* [[majorNschool selection]]{전공 및 학교 선택}
+* [[admit-rate]]{UC 전공별 합격률 조회}
 
 
