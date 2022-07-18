@@ -1,0 +1,23 @@
+{
+  "name": "hoonti06.github.io",
+  "version": "1.0.0",
+  "description": "data generator",
+  "main": "generateData.js",
+  "dependencies": {
+    "yamljs": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoonti06/hoonti06.github.io.git"
+  },
+  "author": "hoonti06",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hoonti06/hoonti06.github.io/issues"
+  },
+  "homepage": "https://github.com/hoonit06/hoonti06.github.io#readme"
+}

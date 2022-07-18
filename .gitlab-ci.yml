@@ -1,0 +1,29 @@
+image: hoonti06/hoonti06.gitlab.io-env
+
+variables:
+  JEKYLL_ENV: production
+  LC_ALL: C.UTF-8
+
+before_script:
+  - gem install bundler
+  - bundle install
+  - ./generateData.js
+test:
+  stage: test
+  script:
+  - bundle exec jekyll build -d test
+  artifacts:
+    paths:
+    - test
+  except:
+  - master
+
+pages:
+  stage: deploy
+  script:
+  - bundle exec jekyll build -d public --trace
+  artifacts:
+    paths:
+    - public
+  only:
+  - master

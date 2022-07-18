@@ -1,0 +1,4 @@
+test:
+    - {fileName: default-post}
+how-to-use-de-anza-wiki:
+    - {fileName: how-to}

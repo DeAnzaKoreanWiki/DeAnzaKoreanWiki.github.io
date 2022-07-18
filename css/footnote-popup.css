@@ -1,0 +1,42 @@
+.bottom-panel {
+	position: fixed;
+	font-size: 0.9rem;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: black;
+	z-index: 10000;
+}
+
+.popup-wrapper {
+	display: none;
+	max-width: 35rem;
+	margin: 0 auto;
+	color: white;
+}
+
+#popup-content {
+	max-width: 33rem;
+	text-align: left;
+	padding: 1rem;
+	margin: 0 auto;
+	line-height: 1.4rem;
+}
+
+a.reversefootnote {
+	display: none;
+} 
+
+/*
+a.footnote {
+text-decoration:none;
+background-color: #FEF6BB;
+padding-left: 2px;
+padding-right: 2px;
+margin-right: 2px;
+-webkit-transition: all 2s ease;
+-moz-transition: all 2s ease;
+-o-transition: all 2s ease;
+transition: all 2s ease;
+} 
+ */

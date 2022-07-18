@@ -1,0 +1,72 @@
+---
+layout: searchList
+title: Search
+permalink: /search
+public: true
+---
+<!--form action="/search" method="get">
+  <label for="search-box">Search</label>
+  <input type="text" id="search-box" name="query">
+  <input type="submit" value="search">
+</form-->
+
+<ul id="search-results"></ul>
+
+<script>
+  /* 구글 맞춤 검색
+  (function() {
+	var cx = '016269180258116102907:6ypbohkwi8i';
+	var gcse = document.createElement('script');
+	gcse.type = 'text/javascript';
+	gcse.async = true;
+	gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(gcse, s);
+  })();
+  <gcse:search linkTarget="_parent" queryParameterName="searchString"></gcse:search>
+  */
+
+</script>
+
+<!--script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script-->
+<script src="{{ site.baseurl }}/js/simple-jekyll-search.min.js"></script>
+<script type="text/javascript">
+  var sjs = SimpleJekyllSearch({
+    searchInput: document.getElementById('search-box'),
+    resultsContainer: document.getElementById('search-results'),
+    json: '{{ site.baseurl }}/search.json',
+    searchResultTemplate: '<li><a href="{url}">{title} ({date})</a></li>',
+    noResultsText: 'No results found',
+    limit: 20,
+    fuzzy: false,
+    exclude: ['Welcome']
+  });
+
+  function getQueryVariable(variable) {
+    let query = window.location.search.substring(1);
+    let vars = query.split('&');
+
+    for (let i = 0; i < vars.length; i++) {
+      let pair = vars[i].split('=');
+
+      if (pair[0] === variable) {
+        return decodeURIComponent(pair[1].replace(/\+/g, '%20'));
+      }
+    }
+  }
+
+  window.onload = function() {
+    let searchTerm = getQueryVariable('query');
+    if (searchTerm) {
+      let searchBox = document.getElementById('search-box');
+      searchBox.focus();
+      searchBox.value = searchTerm;
+
+      setTimeout(() => sjs.search(searchTerm), 100);
+    }
+  };
+
+  document.getElementById('search-box').addEventListener('input', function () {
+    window.history.pushState(null, null, "{{ site.baseurl }}/search?query=" + this.value);
+});
+</script>
