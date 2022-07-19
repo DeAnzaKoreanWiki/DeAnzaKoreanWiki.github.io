@@ -1,5 +1,5 @@
 ---
-layout  : category
+layout  : wiki
 title   : 전공별 합격률
 summary :
 date    : 2022-07-18 09:18:15 +0900
