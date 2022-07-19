@@ -7,7 +7,7 @@ updated : 2022-07-18 22:18:36 +0900
 tag    : 수강신청
 toc     : true
 public  : true
-parent  : 
+parent  : [[index]]
 latex   : false
 ---
 * TOC
