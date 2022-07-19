@@ -134,16 +134,18 @@ collections:
 
 # Comment Service
 utterances:
-  repo: hoonti06/blog-comment
-  issue-term: pathname
+  repo: DeAnzaKoreanWiki/DeAnzaKoreanWiki.github.io
+  issue-term: url
   label: Comment
-  branch: master
+  branch: main
 
 google_analytics:
   ua: G-RXKR5GK6EZ
 
-original: "https://gitlab.com/hoonti06/hoonti06.gitlab.io/blob/main/_wiki"
-blame: "https://gitlab.com/hoonti06/hoonti06.gitlab.io/blame/main/_wiki"
+original: "https://github.com/DeAnzaKoreanWiki/DeAnzaKoreanWiki.github.io/blob/main/_wiki"
+blame: "https://github.com/DeAnzaKoreanWiki/DeAnzaKoreanWiki.github.io/blame/main/_wiki"
+edit: "https://github.com/DeAnzaKoreanWiki/DeAnzaKoreanWiki.github.io/edit/main/_wiki"
+issue: "https://github.com/DeAnzaKoreanWiki/DeAnzaKoreanWiki.github.io/issues/new"
 
 timezone: "Asia/Seoul"
 
