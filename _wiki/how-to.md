@@ -4,7 +4,7 @@ title   : HOW TO USE DE ANZA WIKI
 summary :
 date    : 2022-07-01 18:17:02 +0900
 updated : 2022-07-17 15:57:05 +0900
-tag     : how-to-use-de-anza-wiki
+tag     : How-to-Use-DeAnza-Wiki
 toc     : true
 public  : true
 parent  : [[index]]
@@ -23,8 +23,8 @@ De Anza 위키는 De Anza에 편입을 위해 처음 발을 들인 분들을 위
 
 ## 당신이 막 비자를 받고 입학한 새내기라면...
 
-1. [[편입 방법.md|편입은 어떻게 하나요?]]
-2. [[전공 및 학교 선택.md|전공은 무슨 전공이 좋을까요?]]
+1. [[how-to-transfer]]{편입은 어떻게 하나요?}
+2. [[majorNschool-selection]]{전공은 무슨 전공이 좋을까요?}
 3. 아무것도 모르겠으니 다 떠먹여주세요
 
 ## 당신이 첫 수강신청을 앞둔 사람이라면...

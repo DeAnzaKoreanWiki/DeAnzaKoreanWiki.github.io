@@ -11,8 +11,8 @@ regenerate: true
 
 
 * [[how-to]]
-* [[howtotransfer]]{편입방법}
-* [[majorNschool selection]]{전공 및 학교 선택}
-* [[admit-rate]]{UC 전공별 합격률 조회}
+* [[how-to-transfer]]
+* [[majorNschool-selection]]
+* [[admit-rate]]
 
 

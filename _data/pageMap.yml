@@ -1,24 +1,8 @@
-default-post:
-    type: blog
-    title: 'sample title'
-    summary: 'sample summary'
-    parent: null
-    url: /blog/2017/04/02/default-post
-    updated: '2020-07-01 13:40:35 +0900'
-    children: []
-2019-08-07-Naver_Developer_Open_Class_2019:
-    type: blog
-    title: 'Naver Developer Open Class 2019'
-    summary: '네이버 하반기 공채 채용 설명회'
-    parent: null
-    url: /blog/2019/08/08/Naver_Developer_Open_Class_2019
-    updated: '2020-07-01 13:53:32 +0900'
-    children: []
 admit-rate:
     type: wiki
     title: '전공별 합격률'
-    summary: ""
-    parent: ""
+    summary: null
+    parent: index
     url: /wiki/admit-rate
     updated: '2022-07-18 09:18:15 +0900'
     children: []
@@ -30,12 +14,12 @@ how-to:
     url: /wiki/how-to
     updated: '2022-07-17 15:57:05 +0900'
     children: []
-howtotransfer:
+how-to-transfer:
     type: wiki
     title: '편입 방법'
-    summary: ""
-    parent: ""
-    url: /wiki/howtotransfer
+    summary: null
+    parent: index
+    url: /wiki/how-to-transfer
     updated: '2022-07-18 01:43:26 +0900'
     children: []
 index:
@@ -46,11 +30,11 @@ index:
     url: /wiki/index
     updated: null
     children: []
-'majorNschool selection':
+majorNschool-selection:
     type: wiki
     title: '전공 및 학교 선택'
     summary: ""
     parent: ""
-    url: '/wiki/majorNschool selection'
+    url: /wiki/majorNschool-selection
     updated: '2022-07-18 01:59:22 +0900'
     children: []

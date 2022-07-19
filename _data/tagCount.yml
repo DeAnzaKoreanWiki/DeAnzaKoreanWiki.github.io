@@ -1,6 +1,12 @@
 -
-    name: how-to-use-de-anza-wiki
+    name: How-to-Use-DeAnza-Wiki
     size: 1
 -
-    name: test
+    name: 전공
+    size: 1
+-
+    name: 편입
+    size: 1
+-
+    name: 합격률
     size: 1

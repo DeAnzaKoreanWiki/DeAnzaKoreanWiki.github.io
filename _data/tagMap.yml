@@ -1,4 +1,8 @@
-test:
-    - {fileName: default-post}
-how-to-use-de-anza-wiki:
+합격률:
+    - {fileName: admit-rate}
+How-to-Use-DeAnza-Wiki:
     - {fileName: how-to}
+편입:
+    - {fileName: how-to-transfer}
+전공:
+    - {fileName: majorNschool-selection}

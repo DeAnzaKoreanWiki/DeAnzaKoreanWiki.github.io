@@ -1,14 +1,14 @@
 ---
-layout  : wiki
+layout  : category
 title   : 전공별 합격률
-summary : 
+summary :
 date    : 2022-07-18 09:18:15 +0900
 updated : 2022-07-18 09:18:15 +0900
-tags    : 합격률
+tag    : 합격률
 toc     : true
 public  : true
-parent  : 
-latex   : false
+parent  : [[index]]
+latex   : true
 ---
 * TOC
 {:toc}
