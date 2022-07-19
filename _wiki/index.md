@@ -14,5 +14,6 @@ regenerate: true
 * [[how-to-transfer]]
 * [[majorNschool-selection]]
 * [[admit-rate]]
+* [[registration]]
 
 
