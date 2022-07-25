@@ -1,5 +1,19 @@
 합격률:
     - {fileName: admit-rate}
+'배치고사,':
+    - {fileName: assessment}
+'시험,':
+    - {fileName: assessment}
+'배치,':
+    - {fileName: assessment}
+선수과목:
+    - {fileName: assessment}
+'ESL,':
+    - {fileName: esl}
+concurrent:
+    - {fileName: esl}
+enrollment:
+    - {fileName: esl}
 How-to-Use-DeAnza-Wiki:
     - {fileName: how-to}
 편입:

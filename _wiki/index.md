@@ -15,5 +15,7 @@ regenerate: true
 * [[majorNschool-selection]]
 * [[admit-rate]]
 * [[registration]]
-
+* [[assessment]]
+* [[esl]]
+* [[concurrent-enroll]]
 

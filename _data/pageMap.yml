@@ -6,6 +6,30 @@ admit-rate:
     url: /wiki/admit-rate
     updated: '2022-07-18 09:18:15 +0900'
     children: []
+assessment:
+    type: wiki
+    title: 'Placement 시험'
+    summary: ""
+    parent: ""
+    url: /wiki/assessment
+    updated: '2022-07-25 03:01:00 +0900'
+    children: []
+concurrent-enroll:
+    type: wiki
+    title: ""
+    summary: ""
+    parent: ""
+    url: /wiki/concurrent-enroll
+    updated: '2022-07-25 16:39:54 +0900'
+    children: []
+esl:
+    type: wiki
+    title: 'ESL 수업'
+    summary: ""
+    parent: ""
+    url: /wiki/esl
+    updated: '2022-07-25 15:39:33 +0900'
+    children: []
 how-to:
     type: wiki
     title: 'HOW TO USE DE ANZA WIKI'
