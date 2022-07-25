@@ -1,5 +1,5 @@
 ---
-layout  : category
+layout  : wiki
 title   : HOW TO USE DE ANZA WIKI
 summary :
 date    : 2022-07-01 18:17:02 +0900

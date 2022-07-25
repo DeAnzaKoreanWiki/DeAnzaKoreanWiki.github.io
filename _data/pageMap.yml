@@ -34,7 +34,7 @@ majorNschool-selection:
     type: wiki
     title: '전공 및 학교 선택'
     summary: ""
-    parent: ""
+    parent: index
     url: /wiki/majorNschool-selection
     updated: '2022-07-18 01:59:22 +0900'
     children: []
@@ -42,7 +42,7 @@ registration:
     type: wiki
     title: 수강신청
     summary: ""
-    parent: ""
+    parent: index
     url: /wiki/registration
     updated: '2022-07-18 22:18:36 +0900'
     children: []
