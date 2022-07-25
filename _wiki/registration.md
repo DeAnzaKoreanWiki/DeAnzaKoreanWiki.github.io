@@ -65,6 +65,7 @@ Submit을 누르시면 다음으로 과목별 분류 메뉴를 보시게 됩니�
 
 ![ClasseName](https://user-images.githubusercontent.com/108209464/180735978-6000befd-91ee-4c8a-9859-66dc4fa7dbe9.PNG)  
 과목 선택후 이제 수업 선택을 하시면 됩니다. 여기선 MATH1A 수업을 예시로 설명허기 위해 D001A를 선택하겠습니다(D는 De Anza의 약자 001A는 MATH1A의 약자).  
+<br/>
 
 ![Reglist](https://user-images.githubusercontent.com/108209464/180736846-b0f9147c-215d-4f5d-8c65-7b57aded07fd.PNG)
 MATH1A를 선택하면 MATH1A 수업의 리스트가 뜨며 원하는 교수와 수업시간을 골라 체크하시고 하단의 Register를 누르시면 됩니다. 여기서 수업의 자리가 다 찼는지 아닌지 확인해보실 수 있는데 Act(Actual)는 실제 등록인원을 의미하고 Rem(Remaining)은 남은 자리 WL Rem(Wait List Remaining)은 대기번호 남은자리를 의미합니다. WL Rem까지 다 찬 수업은 지금은 등록하실 수 없으며 인원이 빠질때까지 기다려야합니다. 또한 Rem이 0인 수업, 즉 인원이 꽉찬 수업은 등록하시게 될 경우 Waitlist에 들어가시게 됩니다. De Anza의 Waitlist에 관한 자세한 설명은 여기를 참조하세요.
