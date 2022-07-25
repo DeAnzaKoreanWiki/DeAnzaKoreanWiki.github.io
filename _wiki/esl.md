@@ -29,7 +29,7 @@ Placement 시험 문서를 보시면 아시겠지만 placement test는 ESL과 En
 따라서 ESL placement test를 보시기전에 ESL 수업의 순서가 어떻게 되는지 보시고 본인의 판단하에 다 들을 수 있겠다 싶으시면 편한 마음으로 ESL placement test를 보시길 바랍니다.  
 만일 본인이 다 듣기엔 너무 벅찬것 같다면 ESL placement test를 보지말고 바로 English placement test를 보실 수도 있으니 잘 판단하여 선택하시길 바랍니다.  
 
-(ESL sequence issue)
+![ESL sequence](https://user-images.githubusercontent.com/108209464/180893312-2d8b5517-dd8a-4cf8-bce3-ffb6a00d8894.PNG)  
 그림: ESL 수업 순서도  
 
 # ESL수업의 장단점
