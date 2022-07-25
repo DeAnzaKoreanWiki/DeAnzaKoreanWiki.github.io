@@ -35,12 +35,13 @@ Student Registration에 들어가시면 Registration Tools메뉴에서 Add or Dr
 <br/>
 
 ![Class schedule icon](https://user-images.githubusercontent.com/108209464/180726988-88eb490d-af97-4cff-8e36-785f5fe773d8.PNG)  
-참고로 Class Schedule은 De Anza 홈페이지 처음 들어가시면 우측 상단에 위와 같은 모양의 아이콘을 누르시면 들어가실 수 있습니다.  
+참고로 Class Schedule은 De Anza 홈페이지 처음 들어가시면 우측 상단에 위와 같은 모양의 아이콘을 누르시면 들어가실 수 있습니다.   
+<br/>
 
 ![ExCRN](https://user-images.githubusercontent.com/108209464/180727078-a4bf7b73-6ad3-4152-a762-635208019c65.PNG)  
 예컨데 위 수업에서 오전 8시 반에 시작하는 첫번째줄의 MATH1A 수업의 CRN을 알고 싶으시다면 바로 왼쪽의 CRN인 22884가 해당 수업의 CRN이 되는 것입니다. 또한 8시 반 MATH1A가 너무 이른 시간이라 9시 반 MATH1A을 들으시겠다면 9시 반 수업의 CRN을 찾아야할 것이고 9시 반 수업의 CRN은 왼쪽의01478입니다. 즉 요약하자면 CRN은 제일 왼쪽의 CRN행에서 읽고 찾으시면 됩니다.  
-
-CRN을 찾으셨다면 이제 수강신청을 하실때입니다. 수강신청은 별게 없고 매우 간단합니다. 듣고 싶으신 수업의 CRN을 찾으셨다면 그 CRN을 CRN 박스(CRNs 아래의 네모칸)에 넣고 Submit Changes 버튼을 누르시면 됩니다.
+CRN을 찾으셨다면 이제 수강신청을 하실때입니다. 수강신청은 별게 없고 매우 간단합니다. 듣고 싶으신 수업의 CRN을 찾으셨다면 그 CRN을 CRN 박스(CRNs 아래의 네모칸)에 넣고 Submit Changes 버튼을 누르시면 됩니다.  
+<br/>
 
 ![BeforeSubmit](https://user-images.githubusercontent.com/108209464/180727136-e9aea9e0-2278-4afe-9d45-4c764bf8c747.PNG)  
 위 사진처럼 CRN을 입력하시고 Submit Changes 버튼을 누르시면 수강신청 완료입니다.
