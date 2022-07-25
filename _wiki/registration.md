@@ -32,6 +32,7 @@ Student Registration에 들어가시면 Registration Tools메뉴에서 Add or Dr
 
 ![addNdrop](https://user-images.githubusercontent.com/108209464/179709555-16e0bdf8-2a4c-4ff5-bbc3-a45b3438a184.PNG)
 위 화면은 Add or Drop 방식으로 수강신청을 할때의 모습입니다. CRNs 아래의 네모칸에다가는 말그대로 CRN을 입력하는 겁니다. CRN은 5자리 숫자이며 Class Schedule에 들어가셔서 수업 리스트에서 듣고 싶은 수업의 CRN 찾아보시면 됩니다.  
+<br/>
 
 ![Class schedule icon](https://user-images.githubusercontent.com/108209464/180726988-88eb490d-af97-4cff-8e36-785f5fe773d8.PNG)  
 참고로 Class Schedule은 De Anza 홈페이지 처음 들어가시면 우측 상단에 위와 같은 모양의 아이콘을 누르시면 들어가실 수 있습니다.  
