@@ -18,7 +18,7 @@ latex   : false
 
 
 ## Add or Drop
-우선 Add or Drop방식의 수강신청을 하시려면 먼저 My Portal에 로그인 하셔야합니다. 로그인 후 Apps 좌측 목록에서 아래와 같은 Apps탭을 클릭하세요.  
+우선 Add or Drop방식의 수강신청을 하시려면 먼저 My Portal에 로그인 하셔야합니다. 로그인 후 아래와 같은 좌측 목록에서 "Apps"탭을 클릭하세요.  
 ![Tabs](https://user-images.githubusercontent.com/108209464/180726719-bfb638d7-66b7-4d5d-97f2-b1f27a01fb6d.PNG)
 <br/>  
 
