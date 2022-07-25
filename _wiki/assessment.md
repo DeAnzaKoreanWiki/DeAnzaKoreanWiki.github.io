@@ -4,7 +4,7 @@ title   : Placement 시험
 summary : 
 date    : 2022-07-25 03:01:00 +0900
 updated : 2022-07-25 03:01:00 +0900
-tag     : 배치고사, 시험, 배치, 선수과목
+tag     : 수강신청, 시험, 배치, 선수과목
 toc     : true
 public  : true
 parent  : 
