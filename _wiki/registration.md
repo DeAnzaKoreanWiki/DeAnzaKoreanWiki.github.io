@@ -48,9 +48,26 @@ CRN을 찾으셨다면 이제 수강신청을 하실때입니다. 수강신청�
 
 
 
-## Look Up Classes
+## Look Up Classes(Searchable Schedule of Classes)
 Look Up Classes는 Add or Drop 방식보다 간단합니다. 굳이 CRN을 알아내실 필요가 없습니다. Look Up Classes 방식으로 수강신청을 하는 방법은 Add or Drop 화면에서부터 설명을 시작하겠습니다.  
 
+![GoingtoStudent](https://user-images.githubusercontent.com/108209464/180727233-5f087652-e1b1-4329-bbe2-2d5a528b17a8.PNG)  
 우선 Add or Drop화면에서 위에 Student라는 탭을 찾아 클릭하세요.  
-![GoingtoStudent](https://user-images.githubusercontent.com/108209464/180727233-5f087652-e1b1-4329-bbe2-2d5a528b17a8.PNG)
+
+![Route](https://user-images.githubusercontent.com/108209464/180733983-7ccbc158-ed79-41ca-a1bc-e3bf10248e55.PNG)  
+Student 탭을 클릭하시면 Registration하고 Student Records 이렇게 두가지 메뉴가 뜹니다. Registration을 클릭하시고 그 다음 뜨는 메뉴에서 Look up Classes를 클릭하세요.  
+
+![SelectTerm](https://user-images.githubusercontent.com/108209464/180734452-197a0fee-922b-490f-ab19-82c841f749b7.PNG)  
+이후 수강신청하려는 학기를 선택하시고(그림에서는 2022년 가을학기) Submit버튼을 누르세요.  
+
+![courseSelect](https://user-images.githubusercontent.com/108209464/180735078-11ba7207-328f-4d19-8109-682a2349e3a4.PNG)  
+Submit을 누르시면 다음으로 과목별 분류 메뉴를 보시게 됩니다. 이 사진에선 예시로 수학 수업들을 찾아보기위해 수학을 선택하였습니다. 선택후 Course Search를 누르시면 됩니다. 참고로 과목명 뒤에 붙는 DA그리고 FD는 각각 De Anza와 Foothill De Anza의 약자입니다. 이 위키는 De Anza를 기준으로 설명하며 De Anza학생이라면 Foothill에 입학하지 않으셨더라도 FD가 뜰 수 있습니다.  
+
+![ClasseName](https://user-images.githubusercontent.com/108209464/180735978-6000befd-91ee-4c8a-9859-66dc4fa7dbe9.PNG)  
+과목 선택후 이제 수업 선택을 하시면 됩니다. 여기선 MATH1A 수업을 예시로 설명허기 위해 D001A를 선택하겠습니다(D는 De Anza의 약자 001A는 MATH1A의 약자).  
+
+![Reglist](https://user-images.githubusercontent.com/108209464/180736846-b0f9147c-215d-4f5d-8c65-7b57aded07fd.PNG)
+MATH1A를 선택하면 MATH1A 수업의 리스트가 뜨며 원하는 교수와 수업시간을 골라 체크하시고 하단의 Register를 누르시면 됩니다. 여기서 수업의 자리가 다 찼는지 아닌지 확인해보실 수 있는데 Act(Actual)는 실제 등록인원을 의미하고 Rem(Remaining)은 남은 자리 WL Rem(Wait List Remaining)은 대기번호 남은자리를 의미합니다. WL Rem까지 다 찬 수업은 지금은 등록하실 수 없으며 인원이 빠질때까지 기다려야합니다. 또한 Rem이 0인 수업, 즉 인원이 꽉찬 수업은 등록하시게 될 경우 Waitlist에 들어가시게 됩니다. De Anza의 Waitlist에 관한 자세한 설명은 여기를 참조하세요.
+
+
 
