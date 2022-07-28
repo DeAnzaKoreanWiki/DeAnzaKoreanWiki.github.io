@@ -4,7 +4,7 @@ title   : 전공별 합격률
 summary :
 date    : 2022-07-18 09:18:15 +0900
 updated : 2022-07-18 09:18:15 +0900
-tag    : 합격률
+tag    : 합격률, UC
 toc     : true
 public  : true
 parent  : [[index]]

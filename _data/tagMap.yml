@@ -1,5 +1,9 @@
-합격률:
+'합격률,':
     - {fileName: admit-rate}
+UC:
+    - {fileName: admit-rate}
+    - {fileName: assist}
+    - {fileName: uc-application}
 '배치고사,':
     - {fileName: assessment}
 '시험,':
@@ -8,6 +12,8 @@
     - {fileName: assessment}
 선수과목:
     - {fileName: assessment}
+'선수과목,':
+    - {fileName: assist}
 'ESL,':
     - {fileName: esl}
 concurrent:
@@ -22,3 +28,5 @@ How-to-Use-DeAnza-Wiki:
     - {fileName: majorNschool-selection}
 수강신청:
     - {fileName: registration}
+'원서,':
+    - {fileName: uc-application}

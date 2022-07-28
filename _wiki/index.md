@@ -18,4 +18,7 @@ regenerate: true
 * [[assessment]]
 * [[esl]]
 * [[concurrent-enroll]]
+* [[reg-planning]]
+* [[assist]]
+* [[uc-application]]
 

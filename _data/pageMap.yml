@@ -14,9 +14,17 @@ assessment:
     url: /wiki/assessment
     updated: '2022-07-25 03:01:00 +0900'
     children: []
-concurrent-enroll:
+assist:
     type: wiki
     title: ""
+    summary: ""
+    parent: ""
+    url: /wiki/assist
+    updated: '2022-07-28 00:58:40 +0900'
+    children: []
+concurrent-enroll:
+    type: wiki
+    title: 'Foothill 수업듣기'
     summary: ""
     parent: ""
     url: /wiki/concurrent-enroll
@@ -62,6 +70,14 @@ majorNschool-selection:
     url: /wiki/majorNschool-selection
     updated: '2022-07-18 01:59:22 +0900'
     children: []
+reg-planning:
+    type: wiki
+    title: ""
+    summary: ""
+    parent: ""
+    url: /wiki/reg-planning
+    updated: '2022-07-28 00:53:47 +0900'
+    children: []
 registration:
     type: wiki
     title: 수강신청
@@ -69,4 +85,12 @@ registration:
     parent: index
     url: /wiki/registration
     updated: '2022-07-18 22:18:36 +0900'
+    children: []
+uc-application:
+    type: wiki
+    title: 'UC 원서'
+    summary: ""
+    parent: ""
+    url: /wiki/uc-application
+    updated: '2022-07-28 01:14:20 +0900'
     children: []
