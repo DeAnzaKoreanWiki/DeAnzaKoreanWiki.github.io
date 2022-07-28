@@ -1,6 +1,6 @@
 ---
-layout  : category
-title   : 수강계
+layout  : wiki
+title   : 수강계획
 summary : 
 date    : 2022-07-28 00:53:47 +0900
 updated : 2022-07-28 00:53:47 +0900

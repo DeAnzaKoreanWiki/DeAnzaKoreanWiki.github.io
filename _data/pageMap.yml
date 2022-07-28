@@ -72,7 +72,7 @@ majorNschool-selection:
     children: []
 reg-planning:
     type: wiki
-    title: 수강계
+    title: 수강계획
     summary: ""
     parent: ""
     url: /wiki/reg-planning
