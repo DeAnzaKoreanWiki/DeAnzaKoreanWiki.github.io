@@ -4,7 +4,7 @@ title   : Placement 시험
 summary : 
 date    : 2022-07-25 03:01:00 +0900
 updated : 2022-07-25 03:01:00 +0900
-tag     : 배치고사, 시험, 배치, 선수과목
+tag     : 수강신청, 시험, 배치, 선수과목
 toc     : true
 public  : true
 parent  : 
@@ -14,13 +14,13 @@ latex   : false
 {:toc}
 
 # De Anza Assessment
-De Anza에서는 총 네 가지의 placement 시험이 존재합니다. 각각 ESL, English. Math, Biology, Science입니다.  
+De Anza에서는 총 네 가지의 placement 시험이 존재합니다. 각각 ESL, English. Math, Science입니다.  
 
 ## 시험의 목적
 각각 시험은 보게 되었을때 수강신청시 신청할 수 있는 수업의 범위가 달라집니다.
 
 ### ESL
-ESL시험은 정답이 존재하는 시험입니다. ESL 시험을 보게 될 경우 영어 실력에 맞는 ESL수업에 배치됩니다. [이 링크](https://www.deanza.edu/assessment/contact.html)에서 신청하실 수 있습니다.
+ESL시험은 정답이 존재하는 시험입니다. ESL 시험을 보게 될 경우 영어 실력에 맞는 ESL수업에 배치됩니다. Advanced 수준을 초과하여 배정되지 않으면 Advanced 수준의 수업을 통과할때까지 English 시험을 볼 수 없습니다. 다시말해, ESL에서 낮은 수업에 배정받게 되면 Advanced 수업까지 다 듣기 전까지 English 시험을 볼 수 없습니다. [이 링크](https://www.deanza.edu/assessment/contact.html)에서 신청하실 수 있습니다.
 
 ### English
 English 시험은 정답이 없습니다. 에세이등을 주고 요약 또는 읽기가 편한지 편하지 않은지 물어봅니다. 무엇을 찍어도 오답이 없기때문에 항상 EWRT1A에 배정됩니다. 미국에서 고등학교를 졸업했다면 볼 필요가 없겠지만 international students같은 경우 EWRT1A를 듣기위해선 형식적으로라도 볼 필요가 있습니다. [이 링크](https://deanza.edu/assessment/contact)에서 신청하실 수 있습니다.

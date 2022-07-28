@@ -17,9 +17,6 @@
     name: '배치,'
     size: 1
 -
-    name: '배치고사,'
-    size: 1
--
     name: 선수과목
     size: 1
 -
@@ -27,6 +24,9 @@
     size: 1
 -
     name: 수강신청
+    size: 1
+-
+    name: '수강신청,'
     size: 1
 -
     name: '시험,'
