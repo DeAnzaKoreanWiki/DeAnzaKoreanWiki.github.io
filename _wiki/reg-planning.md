@@ -30,6 +30,7 @@ latex   : false
 Assist에 들어가서 전공선수과목을 확인합니다.  
 UCB Computer Science 전공선수과목은 아래와 같습니다.  
 MATH1A, MATH1B, MATH1C, MATH1D, MATH2A, MATH2B, CIS22C(CIS 26B도 가능하지만 여기선 CIS 22C로 설명함).  
+<br/>
 이 단계에서 De Anza에서 각 과목을 듣기 위해서 먼저 들어야 할 과목이 있는지를 확인해보아야 합니다.
 MATH 시리즈 같은경우 어차피 순서대로 들으면 되겠으나 CIS 22C는 바로 들을 수 없고 CIS 22A => CIS 22B 순으로 들은 다음에 CIS 22C를 들을 수 있습니다.  
 따라서 De Anza에서 들어야할 실질적인 모든 전공선수과목을 다시 정리하면 아래와 같습니다.  
