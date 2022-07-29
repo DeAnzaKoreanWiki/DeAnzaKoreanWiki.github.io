@@ -58,6 +58,27 @@ UC는 길게 찾을 필요없이 메뉴 맨아래에 있기때문에 스크롤�
 ### 전공 선택
 윗 단계에서 연도와 학교를 선택했다면 이젠 전공을 선택하실 차례입니다.  
 예시로 UC Berkeley Molecular and Cell Biology의 전공선수과목을 확인해보겠습니다.  
+![Biosection](https://user-images.githubusercontent.com/108209464/181790047-d18707c4-684f-4e68-b436-527cf2527392.PNG)  
+위 사진은 Biology 전공선수과목을 보여주고 있습니다. 얼핏보면 복잡해보이지만 자세히 하나하나 뜯어보고 각각의 박스가 의미하는바를 알아봅시다.  
+<br/>
+우선 왼쪽의 각 과목들(BIOLOGY 1A, BIOLOGY 1AL, BIOLOGY 1B)은 UC Berkeley의 수업명입니다. 실제로 Berkeley의 [수업 목록 사이트](https://classes.berkeley.edu/)에 가보면 저 이름의 과목들을 찾을 수 있습니다.  
+오른쪽의 과목들은 De Anza의 수업들입니다. 이 말인 즉슨 여러분은 저 과목중에 한가지 또는 전부를 수강신청 하시게 될것이란 것입니다.  
+<br/>
+그럼 이제 첫번째 빨간색 표시부터 보도록 하겠습니다. 첫번째 빨간 표시 안을 보면 BIOLOGY 1A, BIOLOGY 1AL가 왼쪽(Berkeley 수업)에 있고 오른쪽엔 BIOL 6A, BIOL 6AH, BIOL 6B가 있습니다. 그러면 "이 수업을 다 들어야 하는가?" 하고 질문하실 수도 있겠으나 대답은 "아니오"입니다.  
+여러분은 두가지 선택지가 있고 그걸 알 수 있는 방법은 오른쪽에 회색박스(위에 박스에는 BIOL 6A하고 and막대기와 BIOL 6B, 아래 박스에는 BIOL 6AH하고 and막대기와 BIOL 6B)를 잘 보시면 알 수 있습니다.  
+위에 박스(BIOL 6A하고 and막대기와 BIOL 6B가 있는 박스)와 아래박스(BIOL 6AH하고 and막대기와 BIOL 6B가 있는 박스)는 or 막대기로 나눠져 있습니다.  
+이 박스들은 일종의 수업 덩어리로써 그 덩어리 하나를 들어야 Berkeley에서 한 과목으로 취급해주겠다는 의미이며 or 박스는 둘중에 아무거나해도 상관 없다는 의미입니다.  
+즉, Berkeley에서 BIOLOGY 1A, BIOLOGY 1AL 이 두개를 들은것으로 인정되려면 De Anza에서 BIOL 6A와 BIOL 6B를 듣던지 또는 BIOL 6AH와 BIOL 6B를 들으시면 됩니다.  
+<br/>
+두번째 빨간 표시도 마찬가지로 해석하시면 됩니다. Berkeley에서 BIOLOGY 1B 수업과 동일한 공부를 했다는것으로 간주되려면 De Anza에서 총 4가지의 조합의 수업 계획을 생각해볼 수 있습니다. 위의 박스부터 (BIOL 6A and BIOL 6C)or (BIOL 6AH, BIOL 6C)or (BIOL 6A, BIOL 6CH)or (BIOL 6AH, BIOL 6CH). 즉 이 네가지 조합중에 맘에 드는 조합으로 수업을 들으시면 됩니다.  
+<br/>
+마지막으로 아래의 Articulates as Course-to-Course Only는 무시하셔도 됩니다. 이는 수업이 코스 대 코스로 연결되어야 한다는 의미인데, De Anza를 제외한 일부 Community College에서는 Berkeley의 BIOLOGY 1A, BIOLOGY 1AL, BIOLOGY 1B 수업들을 묶음으로 똑같이 인정되게끔 수업을 제공하는 경우가 있습니다. De Anza에서는 그런식으로 수업을 제공하지 않기에 Articulates as Course-to-Course Only라고 뜨는것입니다. 어차피 De Anza에서는 BIOL 6A, BIOL 6B, BIOL 6C를(또는 6AH, 6BH, 6CH) 들음으로써 Berkeley의 BIOLOGY 1A, BIOLOGY 1AL, BIOLOGY 1B 수업들이 충족되니 무시하셔도 됩니다.  
+다만 Molecular and Cell Biology 아닌 다른 전공의 경우 De Anza에서는 제공 안하지만 다른 Community College에선 제공하는 수업들이 있습니다. 이 경우 듣는것이 유리하긴 하나 De Anza에서만 수업을 들었다면 안들어도 불이익은 없습니다.
+<br/>
+<br/>
+![deanzaagreement](https://user-images.githubusercontent.com/108209464/181796278-ea1460f3-2a3b-49d5-85f9-94d52c434d3a.PNG)
+![dvagreement](https://user-images.githubusercontent.com/108209464/181796291-5916736c-c732-4a54-8ae1-e4634b274578.PNG)
+위의 사진은 각각
 
 
 
