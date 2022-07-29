@@ -23,15 +23,15 @@ latex   : false
 
 ## University of California
 1.Assist에 들어가서 전공선수과목을 확인합니다.  
-2.현재 쿼터가 언제인지 파악하고 편입 원서를 쓰기까지의 쿼터를 계산해봅니다[^3].
-3.최소 한가지의 수학과목[^4] 영어(EWRT1A와 EWRT2)를 원서를 작성하는 쿼터(가을 쿼터)까지는 꼭 들을 수 있도록 합니다.
+2.현재 쿼터가 언제인지 파악하고 편입 원서를 쓰기까지의 쿼터를 계산해봅니다[^3].  
+3.최소 한가지의 수학과목[^4] 영어(EWRT1A와 EWRT2)를 원서를 작성하는 쿼터(가을 쿼터)까지는 꼭 들을 수 있도록 합니다.  
 4.이후 남은 중요한 과목들(전공선수과목)을 원서를 작성하는 쿼터(가을쿼터)까지 끝내보도록 하고 안되더라도 최대한 겨울쿼터내로는 마칠 수 있도록 합니다.  
-5.마지막으로 IGETC을 언제 들을지 계획합니다[^5]. IGETC의 경우 편입하기전까지만 완료하면 됩니다.
-
+5.마지막으로 IGETC을 언제 들을지 계획합니다[^5]. IGETC의 경우 편입하기전까지만 완료하면 됩니다.  
+<br/>
 예시 플랜:
-
-예를들어 지금이 2022년 봄쿼터이고 2024년 가을에 UC Berkeley Computer Science로 편입하고 싶다고 가정합니다.  
-![CSplan1](https://user-images.githubusercontent.com/108209464/181665311-9ba4d0ec-1e01-448c-92a4-aa370d848cdd.PNG)
+<br/>
+![CSplan1](https://user-images.githubusercontent.com/108209464/181665311-9ba4d0ec-1e01-448c-92a4-aa370d848cdd.PNG)  
+예를들어 지금이 2022년 봄쿼터이고 2024년 가을에 UC Berkeley Computer Science로 편입하고 싶다고 가정합니다. 그렇다면 일단 큰 그림은 위와 같을것입니다.
 <br/>
 
 1.Assist의 UCB Computer Science 전공선수과목은 아래와 같습니다.  
