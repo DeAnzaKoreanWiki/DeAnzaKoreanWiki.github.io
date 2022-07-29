@@ -73,13 +73,17 @@ UC는 길게 찾을 필요없이 메뉴 맨아래에 있기때문에 스크롤�
 두번째 빨간 표시도 마찬가지로 해석하시면 됩니다. Berkeley에서 BIOLOGY 1B 수업과 동일한 공부를 했다는것으로 간주되려면 De Anza에서 총 4가지의 조합의 수업 계획을 생각해볼 수 있습니다. 위의 박스부터 (BIOL 6A and BIOL 6C)or (BIOL 6AH, BIOL 6C)or (BIOL 6A, BIOL 6CH)or (BIOL 6AH, BIOL 6CH). 즉 이 네가지 조합중에 맘에 드는 조합으로 수업을 들으시면 됩니다.  
 <br/>
 마지막으로 아래의 Articulates as Course-to-Course Only는 무시하셔도 됩니다. 이는 수업이 코스 대 코스로 연결되어야 한다는 의미인데, De Anza를 제외한 일부 Community College에서는 Berkeley의 BIOLOGY 1A, BIOLOGY 1AL, BIOLOGY 1B 수업들을 묶음으로 똑같이 인정되게끔 수업을 제공하는 경우가 있습니다. De Anza에서는 그런식으로 수업을 제공하지 않기에 Articulates as Course-to-Course Only라고 뜨는것입니다. 어차피 De Anza에서는 BIOL 6A, BIOL 6B, BIOL 6C를(또는 6AH, 6BH, 6CH) 들음으로써 Berkeley의 BIOLOGY 1A, BIOLOGY 1AL, BIOLOGY 1B 수업들이 충족되니 무시하셔도 됩니다.  
-다만 Molecular and Cell Biology 아닌 다른 전공의 경우 De Anza에서는 제공 안하지만 다른 Community College에선 제공하는 수업들이 있습니다. 이 경우 듣는것이 유리하긴 하나 De Anza에서만 수업을 들었다면 안들어도 불이익은 없습니다.
+다만 Molecular and Cell Biology 아닌 다른 전공의 경우 De Anza에서는 제공 안하지만 다른 Community College에선 제공하는 수업들이 있습니다. 이 경우 듣는것이 유리한건 사실이나 안들었을경우 어떤 불이익이 있을지는 공식적인 문서가 알려진바 없습니다.
 <br/>
 <br/>
-![deanzaagreement](https://user-images.githubusercontent.com/108209464/181796278-ea1460f3-2a3b-49d5-85f9-94d52c434d3a.PNG)
-![dvagreement](https://user-images.githubusercontent.com/108209464/181796291-5916736c-c732-4a54-8ae1-e4634b274578.PNG)
-위의 사진은 각각
-
+![deanzaagreement](https://user-images.githubusercontent.com/108209464/181796492-3eed899c-bbef-42cb-86cf-8e4e91ad043a.PNG)  
+그림1: De Anza College의 UC Berkeley Computer Science 전공선수과목  
+![dvagreement](https://user-images.githubusercontent.com/108209464/181796516-ea11d6cc-4e4f-4982-893b-844239c6eb1e.PNG)  
+그림2: Diablo Valley College의 UC Berkeley Computer Science 전공선수과목  
+<br/>
+그림1은 De Anza에서 UC Berkeley Computer Science 전공선수과목을 Assist에서 검색한 결과 입니다. COMPSCI 61A만 일치하는 과목이 있고(CIS 22C, CIS 22CH, CIS 26B) 나머지 과목은 없습니다.  
+그림2는 Diablo Valley College라고 캘리포니아의 다른 Community College에서 UC Berkeley Computer Science 전공선수과목을 검색한것인데 여긴 De Anza와 다르게 COMPSCI 61C 수업과 일치하는 수업이 있습니다.  
+즉 전공선수과목을 모조리 다 채워야겠다면 Diablo Valley College에 가서 수업을 듣는것도 고려할 수 있겠지만 UC에서도 CC에서 드물게 제공해주는 전공선수과목 한두개 정도는 안들어도 넘어가주는 경우가 있기때문에 이는 스스로 어떻게 하실지 선택하셔야 합니다.  
 
 
 # 각주
