@@ -17,11 +17,11 @@ latex   : false
 De Anza와 Foothill은 자매학교입니다. 위치도 서로 가까운곳에 있고 수업도 같은 수업을 듣기에 편합니다. 이 문서에서는 De Anza에서 Foothill 수업을 듣는 방법을 소개합니다.
 
 ## Foothill 수업 신청
-1.우선 De Anza International Student Programs office에 가서 Foothill 수업을 듣고 싶다고 말하고 허가를 받습니다.
-2.[이 링크](https://www.opencccapply.net/cccapply-welcome?cccMisCode=422)에서 Foothill에 입학신청을 합니다. 입학원서를 다 냈다면 확인 페이지(confirmation page)를 저장해둡니다.
-3.확인 페이지, De Anza에서 받은 I-20, 그리고 International office에서 받은 허가증을 admissions@foothill.edu로 보냅니다.
-4.수업료를 내고 수업을 듣습니다.
-
+1.우선 De Anza International Student Programs office에 가서 Foothill 수업을 듣고 싶다고 말하고 허가를 받습니다.  
+2.[이 링크](https://www.opencccapply.net/cccapply-welcome?cccMisCode=422)에서 Foothill에 입학신청을 합니다. 입학원서를 다 냈다면 확인 페이지(confirmation page)를 저장해둡니다.  
+3.확인 페이지, De Anza에서 받은 I-20, 그리고 International office에서 받은 허가증을 admissions@foothill.edu로 보냅니다.  
+4.수업료를 내고 수업을 듣습니다.  
+<br/>
 이 과정은 생각보다 시간이 오래걸리므로 Foothill 수업을 들어야겠다고 마음먹었다면 넉넉잡아 1달정도 전에 진행하시길 바랍니다.
 
 ## Foothill 에서 수업듣는다면...
