@@ -21,4 +21,9 @@ regenerate: true
 * [[reg-planning]]
 * [[assist]]
 * [[uc-application]]
+* [[grading]]
+* [[igetc]]
+* [[mythNtruth]]
+* [[class-difficulty]]
+* [[vaccination]]
 

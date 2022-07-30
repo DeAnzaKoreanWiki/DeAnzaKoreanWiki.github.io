@@ -16,11 +16,19 @@ assessment:
     children: []
 assist:
     type: wiki
-    title: ""
+    title: Assist
     summary: ""
     parent: ""
     url: /wiki/assist
     updated: '2022-07-28 00:58:40 +0900'
+    children: []
+class-difficulty:
+    type: wiki
+    title: '수업 난이도 및 구성'
+    summary: ""
+    parent: ""
+    url: /wiki/class-difficulty
+    updated: '2022-07-29 20:54:44 +0900'
     children: []
 concurrent-enroll:
     type: wiki
@@ -38,6 +46,14 @@ esl:
     url: /wiki/esl
     updated: '2022-07-25 15:39:33 +0900'
     children: []
+grading:
+    type: wiki
+    title: 점수체계
+    summary: ""
+    parent: ""
+    url: /wiki/grading
+    updated: '2022-07-27 20:29:14 +0900'
+    children: []
 how-to:
     type: wiki
     title: 'HOW TO USE DE ANZA WIKI'
@@ -54,6 +70,14 @@ how-to-transfer:
     url: /wiki/how-to-transfer
     updated: '2022-07-18 01:43:26 +0900'
     children: []
+igetc:
+    type: wiki
+    title: IGETC
+    summary: ""
+    parent: ""
+    url: /wiki/igetc
+    updated: '2022-07-28 20:32:36 +0900'
+    children: []
 index:
     type: wiki
     title: wiki
@@ -69,6 +93,14 @@ majorNschool-selection:
     parent: index
     url: /wiki/majorNschool-selection
     updated: '2022-07-18 01:59:22 +0900'
+    children: []
+mythNtruth:
+    type: wiki
+    title: '카더라 통신'
+    summary: ""
+    parent: ""
+    url: /wiki/mythNtruth
+    updated: '2022-07-29 20:54:20 +0900'
     children: []
 reg-planning:
     type: wiki
@@ -93,4 +125,12 @@ uc-application:
     parent: ""
     url: /wiki/uc-application
     updated: '2022-07-28 01:14:20 +0900'
+    children: []
+vaccination:
+    type: wiki
+    title: 예방접종
+    summary: ""
+    parent: ""
+    url: /wiki/vaccination
+    updated: '2022-07-29 20:56:17 +0900'
     children: []

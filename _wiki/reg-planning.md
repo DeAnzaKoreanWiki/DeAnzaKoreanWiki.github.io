@@ -27,7 +27,7 @@ latex   : false
 그림: 예시 플랜 사진
 
 ### 전공선수과목 확인
-Assist에 들어가서 전공선수과목을 확인합니다.  
+[[assist]]{Assist}에 들어가서 전공선수과목을 확인합니다.  
 UCB Computer Science 전공선수과목은 아래와 같습니다.  
 MATH1A, MATH1B, MATH1C, MATH1D, MATH2A, MATH2B, CIS22C(CIS 26B도 가능하지만 여기선 CIS 22C로 설명함).  
 <br/>

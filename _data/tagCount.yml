@@ -11,8 +11,20 @@
     name: How-to-Use-DeAnza-Wiki
     size: 1
 -
+    name: IGETC
+    size: 1
+-
+    name: PNP
+    size: 1
+-
+    name: RMP
+    size: 1
+-
     name: UC
     size: 3
+-
+    name: '난이도,'
+    size: 1
 -
     name: '배치,'
     size: 1
@@ -27,7 +39,7 @@
     size: 1
 -
     name: '수강신청,'
-    size: 1
+    size: 2
 -
     name: '시험,'
     size: 1
@@ -38,7 +50,13 @@
     name: 전공
     size: 1
 -
+    name: 준비
+    size: 1
+-
     name: 편입
+    size: 1
+-
+    name: '학점,'
     size: 1
 -
     name: '합격률,'
