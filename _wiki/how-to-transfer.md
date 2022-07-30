@@ -4,7 +4,7 @@ title   : 편입 방법
 summary :
 date    : 2022-07-18 01:43:26 +0900
 updated : 2022-07-18 01:43:26 +0900
-tag    : 편입
+tags    : 편입
 toc     : true
 public  : true
 parent  : [[index]]
