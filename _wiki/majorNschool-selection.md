@@ -4,7 +4,7 @@ title   : 전공 및 학교 선택
 summary : 
 date    : 2022-07-18 01:59:22 +0900
 updated : 2022-07-18 01:59:22 +0900
-tag    : 전공
+tags    : 전공
 toc     : true
 public  : true
 parent  : [[index]]
