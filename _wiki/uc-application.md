@@ -29,7 +29,7 @@ Ex: 2024년 가을(8-9월 사이)편입을 하고 싶을경우 2023년 11월까�
 ## 원서에 작성해야할것
 미리 원서에 무엇을 작성할지 알고 있다면 편입할때 구체적으로 무엇을 준비하면 되는지 감이 더 잘 잡히실겁니다. UC원서는 총 8부분으로 나눌 수 있습니다.  
 각각 About you(국적 및 가족관계등 개인신상정보 기입), Campuses&Majors(지원할 캠퍼스와 전공), Academic Histroy(성적입력), Test Score(SAT, ACT, IB, TOEFL등 시험점수 입력), Activities&Award(Extra Curricular), Scholarship&Programs(장학금 받기위한 정보 기입, 입력해도 유학생은 거의 못받습니다), Personal Insight(에세이), Verified Information(원서에 입력한 정보가 맞는지 확인)부분으로 나뉘어집니다.  
-<br/<br/>
+<br/><br/>
 ![image](https://user-images.githubusercontent.com/108209464/182030540-2f50d49b-c12b-4c1e-b792-2c85d3c92b3a.png)  
 위 그림은 원서사이트에서 캡쳐한 사진입니다.  
 
