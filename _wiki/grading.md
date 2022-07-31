@@ -42,6 +42,8 @@ $${ (4.0) \times 5 + (3.7) \times 5 + (3.0) \times 4 \over (5+5+4) } = 3.6071428
 소수점 셋째자리에서 반올림하면 3.61  
 즉, 최종 GPA는 3.61이 됩니다.  
 
+이 계산이 귀찮다면 [이 사이트](https://gpacalculator.net/college-gpa-calculator/)를 이용하시면 됩니다.
+
 ## PNP
 PNP는 P(pass) or NP(no pass)으로서 성적을 A, B, C, D, F 이런식으로 차등해서 주는대신 통과했는가(pass, P) 또는 통과하지 못했는가(no pass, np)의 이진분류 방식으로 학점을 줍니다.  
 ### P
