@@ -34,9 +34,9 @@ Letter Grade Scale에서 GPA 계산법은 아래와 같습니다.
 4. 결과를 소숫점 셋째자리에서 반올림합니다.
 <br/>
 예시:  
-수업1, Grade A(4.0), Unit 5  
-수업2, Grade A-(3.7), Unit 5  
-수업3. Grade B(3.0), Unit 4  
+수업1, Grade A(4.0), Unit 5<br/>
+수업2, Grade A-(3.7), Unit 5<br/>
+수업3. Grade B(3.0), Unit 4<br/>
 <br/>
 $${ (4.0) \times 5 + (3.7) \times 5 + (3.0) \times 4 \over (5+5+4) } = 3.6071428...$$  
 소수점 셋째자리에서 반올림하면 3.61  
