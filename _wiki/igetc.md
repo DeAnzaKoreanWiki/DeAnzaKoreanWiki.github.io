@@ -50,13 +50,27 @@ ARTS2C(3A), THEA1(3A), PHIL2(3B)
 DANC38A(3A), HUMI1(3A)[^3], WMST8(3B)  
 HUMI1(3A), HUMI7(3A)[^3], WMST8(3B)  
 HUMI1(3A), HUMI7(3A)[^3], HUMI9(3B)  
+<br/>
 3B 두개&3A 하나
 DANC38A(3A), HUMI1(3B)[^3], WMST8(3B)  
 HUMI1(3A), HUMI7(3B)[^3], WMST8(3B)  
 HUMI1(3A), HUMI7(3B)[^3], HUMI9(3B)  
 F/TV1(3A), FREN3(3B), HIST3A(3B)  
+<br/><br/>
+불가능한 조합 예시:
+ARTS2C(3A), ARTS2D(3A), MUSI1A(3A) => 3A만 세개  
+INTL21(3A), ES3(3A), ASAM40(3A) => 3A만 세개  
+ASAM20(3B), ELIT8(3B), WMST21(3B) => 3B만 세개  
+
+## Area4
+![image](https://user-images.githubusercontent.com/108209464/182013317-7efc6578-4faf-4887-b0b7-d385c1532f7e.png)  
+위 사진은 Area4 리스트입니다. 그런데 여기서 눈치채셨을 수도 있겠지만 WMST8 그리고 HIST3A 같은경우 Area3에도 있었습니다.  
+그러면 WNST8이랑 HIST3A 이 두개를 들으면 Area3도 Area4도 둘다 한번에 충족시킬 수 있을까요?  
+정답은 "아니요"입니다. 이렇게 Area간 중복되는 수업은 Area 하나만 충족시킬 수 있습니다.  
+이렇게 중복되는 경우는 그냥 편하신대로 조합을 만들면 됩니다.
+
 
 # 각주
 [^1]: UC Berkeley의 단과대학으로 문리과대학으로 변역가능
 [^2]: 정확히는 "편입전 봄학기"(편입은 봄학기 다음인 가을학기에 편입하기때문)까지 이수할 수 있는가를 묻는 문항
-[^3]: HUMI 수업은 3A와 3B둘다 인정됩니다. 이렇게 둘다 인정되는 경우에는 3A나 3B 어느쪽으로 생각하셔도 무방합니다. 다시말해, HUMI만 3개 들으셔도 된다는 의미입니다. 알아서 3A 두개&3B 하나 또는 3B 두개&3A 하나 조합으로 인정됩니다.
+[^3]: HUMI 수업은 3A와 3B로 양쪽 다 인정됩니다. 이렇게 둘다 인정되는 경우에는 3A나 3B 어느쪽으로 생각하셔도 무방합니다. 다시말해, HUMI만 3개 들으셔도 된다는 의미입니다. 알아서 3A 두개&3B 하나 또는 3B 두개&3A 하나 조합으로 인정됩니다.
