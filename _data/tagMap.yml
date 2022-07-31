@@ -37,9 +37,10 @@ IGETC:
     - {fileName: igetc}
 전공:
     - {fileName: majorNschool-selection}
+준비:
+    - {fileName: pre-reg}
+    - {fileName: vaccination}
 수강신청:
     - {fileName: registration}
 '원서,':
     - {fileName: uc-application}
-준비:
-    - {fileName: vaccination}

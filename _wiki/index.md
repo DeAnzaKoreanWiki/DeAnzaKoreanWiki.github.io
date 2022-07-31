@@ -26,4 +26,7 @@ regenerate: true
 * [[mythNtruth]]
 * [[class-difficulty]]
 * [[vaccination]]
+* [[honor]]
+* [[tag]]
+* [[pre-reg]]
 
