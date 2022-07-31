@@ -33,7 +33,7 @@ Letter Grade Scale에서 GPA 계산법은 아래와 같습니다.
 3. 더한것을 모든 수업의 unit 총합으로 나눕니다.
 4. 결과를 소숫점 셋째자리에서 반올림합니다.
 <br/>
-예시:  
+예시:<br/>
 수업1, Grade A(4.0), Unit 5<br/>
 수업2, Grade A-(3.7), Unit 5<br/>
 수업3. Grade B(3.0), Unit 4<br/>
