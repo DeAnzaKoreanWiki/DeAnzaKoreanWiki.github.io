@@ -77,11 +77,11 @@ Berkeley는 alternative major를 아예 선택할 수 없으며 UCLA는 선택�
 최종적으로, 총 4개의 질문에 답하셔야하며 그러므로 에세이도 4개를 쓰셔야 합니다.  
 여기서는 350단어(문자수가 아닙니다!)내로 쓰셔야 합니다.  
 <br/>
-공통질문: Please describe how you have prepared for your intended major, including your readiness to succeed in your upper-division courses once you enroll at the university.
+공통질문: Please describe how you have prepared for your intended major, including your readiness to succeed in your upper-division courses once you enroll at the university.  
 <br/>
-[8개의 선택질문 링크(UC 공식 사이트)](https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-freshman/personal-insight-questions.html)  
+8개의 선택질문: [8개의 선택질문 링크(UC 공식 사이트)](https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-freshman/personal-insight-questions.html)  
 <br/><br/>
-질문에 맞는 에세이를 다 쓰셨다면 Additional comments란에 추가적으로 하고싶은 말을 적을 수 있습니다.  
+질문에 맞는 에세이를 다 쓰셨다면 Additional comments란이 있는데 여기에 추가적으로 하고싶은 말을 적을 수 있습니다.  
 여기서는 위에 원서쓰는 과정에서 일부 추가적으로 설명하고 싶은것을 적으면 되는데 예를들어 특정학기 성적이 안좋거나 또는 에세이에 미처 쓰지 못한 부분을 부연설명하거나 또는 과외활동등에 대해서 더 부연설명하는식으로 내용을 적을 수 있습니다.  
 
 ### Verified Information
