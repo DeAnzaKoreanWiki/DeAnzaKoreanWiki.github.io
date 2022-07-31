@@ -42,13 +42,13 @@ Ex: 2024년 가을(8-9월 사이)편입을 하고 싶을경우 2023년 11월까�
 여기서는 어떤 UC 캠퍼스에 지원할것인지 그리고 어떤 전공으로 지원할것인지 선택합니다.  
 캠퍼스를 선택하시고 나면 전공을 선택하는데, Berkeley를 제외하고는 전부 Major와 Alternative major를 선택합니다.  
 Alternative major란 한국어로 번역하면 2지망 전공으로써, major로 정한 학과에서 불합격되면 alternative major에서 선택한 학과로 한번 더 봐주는 제도입니다.  
-Berkeley는 alternative major를 아예 선택할 수 없으며 UCLA는 선택할 수는 있으나 TAP(링크)를 하지 않으신다면 alternative major를 심사하지 않습니다.
+Berkeley는 alternative major를 아예 선택할 수 없으며 UCLA는 선택할 수는 있으나 [TAP](https://admission.ucla.edu/apply/transfer/ucla-transfer-alliance-program)를 하지 않으신다면 alternative major를 심사하지 않습니다.
 
 ### Academic Histroy
 여기선 어떤 고등학교에 재학했는지 그리고 여태껏 다녔던 대학의 성적을 입력합니다.  
 성적표를 제출할 필요는 없으며 스스로 직접 성적을 입력하셔야 하며, 여기서 거짓으로 입력하실경우 나중에 문제가 될 수 있습니다.  
 성적입력할때 transferable course는 검색하면 알아서 뜨지면 non-transferable course는 검색해도 안뜨기에 직접 타자로 입력하셔야 합니다.  
-만약 원서 작성이 이전에 TAG(링크)를 지원하셨다면 TAP에서 성적을 입력하셨을것이며 거기서 불러오는것도 가능합니다.  
+만약 원서 작성이 이전에 [[tag]]{TAG}를 지원하셨다면 TAP[^3]에서 성적을 입력하셨을것이며 거기서 불러오는것도 가능합니다.  
 마지막으로 Gap year가 있을경우 여기서 관련 내용을 기입할 수 있습니다.  
 
 ### Test score
@@ -62,7 +62,7 @@ Berkeley는 alternative major를 아예 선택할 수 없으며 UCLA는 선택�
 <br/>
 과외활동이야말로 아마 원서 관련해서 카더라가 가장 많은 부분일것입니다. 왜냐하면 여러분이 실제로 안한것도 실제로 한것처럼 적을 수 있기때문입니다.  
 이 말인 즉슨 어느정도 거짓도 용인이 된다는 것인데, 실제로 extracurricular activities내역에 관한 증빙서류는 원서쓸때 제출하지 않아도 되며 그렇기에 얼마든지 꾸며낼 수 있습니다.  
-하지만 이런 일이 종종 벌어지기에 UC에선 무작위로 지원자를 선별하여 증빙서류를 요구합니다[^3].  
+하지만 이런 일이 종종 벌어지기에 UC에선 무작위로 지원자를 선별하여 증빙서류를 요구합니다[^4].  
 어느정도의 화려해 보일 수 있는 진실된"포장"은 좋지만 거짓된"과장"은 피하시길 바랍니다.  
 
 ### Scholarship&Programs
@@ -88,6 +88,7 @@ Berkeley는 alternative major를 아예 선택할 수 없으며 UCLA는 선택�
 여기는 원서에 중요한 정보가 맞게 입력되었나 제출전에 확인하는 파트입니다. 잘 확인하시고 제출하셨으면 이젠 결과를 기다리면 됩니다!
 
 # 각주
-[^1]: 인종이나 성별등에서 소수자에게 일부 쿼터를 주는 제도로써 주로 공부를 잘하는 아시아인들이 손해를 보는것으로 알려져 있습니다.
-[^2]: 출처 Proposition 209
-[^3]: [출처링크](https://mailchi.mp/ucop/uc-counselors-and-advisers-bulletin-november-2021), UC Application Verification 문단
+[^1]: 인종이나 성별등에서 소수자에게 일부 쿼터를 주는 제도로써 주로 공부를 잘하는 아시아인들이 손해를 보는것으로 알려져 있습니다.  
+[^2]: 출처 Proposition 209  
+[^3]: [UCLA TAP](https://admission.ucla.edu/apply/transfer/ucla-transfer-alliance-program)와는 다릅니다! UCLA TAP는 Transfer Alliance Program의 약자이고 TAG의 TAP는 Transfer Academic Planner의 약자입니다.  
+[^4]: [출처링크](https://mailchi.mp/ucop/uc-counselors-and-advisers-bulletin-november-2021), UC Application Verification 문단  
