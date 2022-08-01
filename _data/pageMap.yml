@@ -56,7 +56,7 @@ grading:
     children: []
 honor:
     type: wiki
-    title: ""
+    title: 'Honor Program'
     summary: ""
     parent: ""
     url: /wiki/honor
@@ -112,7 +112,7 @@ mythNtruth:
     children: []
 pre-reg:
     type: wiki
-    title: checklist
+    title: '수강신청 체크리스트'
     summary: ""
     parent: ""
     url: /wiki/pre-reg
@@ -136,7 +136,7 @@ registration:
     children: []
 tag:
     type: wiki
-    title: ""
+    title: TAG
     summary: ""
     parent: ""
     url: /wiki/tag

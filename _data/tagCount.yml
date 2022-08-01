@@ -1,11 +1,5 @@
 -
-    name: concurrent
-    size: 1
--
-    name: enrollment
-    size: 1
--
-    name: 'ESL,'
+    name: ESL
     size: 1
 -
     name: How-to-Use-DeAnza-Wiki
@@ -14,38 +8,29 @@
     name: IGETC
     size: 1
 -
-    name: PNP
+    name: prerequisite
     size: 1
 -
-    name: RMP
+    name: TAG
     size: 1
 -
     name: UC
-    size: 3
+    size: 5
 -
-    name: '난이도,'
-    size: 1
--
-    name: '배치,'
+    name: 난이도
     size: 1
 -
     name: 선수과목
-    size: 1
--
-    name: '선수과목,'
-    size: 1
--
-    name: 수강신청
-    size: 1
--
-    name: '수강신청,'
     size: 2
 -
-    name: '시험,'
+    name: 수강신청
+    size: 6
+-
+    name: 시험
     size: 1
 -
-    name: '원서,'
-    size: 1
+    name: 원서
+    size: 3
 -
     name: 전공
     size: 1
@@ -54,10 +39,4 @@
     size: 2
 -
     name: 편입
-    size: 1
--
-    name: '학점,'
-    size: 1
--
-    name: '합격률,'
-    size: 1
+    size: 2

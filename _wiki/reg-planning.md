@@ -4,7 +4,7 @@ title   : 수강계획
 summary : 
 date    : 2022-07-28 00:53:47 +0900
 updated : 2022-07-28 00:53:47 +0900
-tag     : 
+tag     : 수강신청
 toc     : true
 public  : true
 parent  : 

@@ -4,7 +4,7 @@ title   : UC 원서
 summary : 
 date    : 2022-07-28 01:14:20 +0900
 updated : 2022-07-28 01:14:20 +0900
-tag     : 원서, UC
+tag     : 원서 UC
 toc     : true
 public  : true
 parent  : 

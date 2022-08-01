@@ -4,7 +4,7 @@ title   : 수업 정보
 summary : 
 date    : 2022-07-29 20:54:44 +0900
 updated : 2022-07-29 20:54:44 +0900
-tag     : 난이도, 수강신청, RMP
+tag     : 난이도 수강신청
 toc     : true
 public  : true
 parent  : 

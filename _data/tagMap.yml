@@ -1,38 +1,36 @@
-'합격률,':
+원서:
     - {fileName: admit-rate}
+    - {fileName: tag}
+    - {fileName: uc-application}
 UC:
     - {fileName: admit-rate}
     - {fileName: assist}
+    - {fileName: igetc}
+    - {fileName: tag}
     - {fileName: uc-application}
-'수강신청,':
+수강신청:
     - {fileName: assessment}
     - {fileName: class-difficulty}
-'시험,':
-    - {fileName: assessment}
-'배치,':
+    - {fileName: esl}
+    - {fileName: reg-planning}
+    - {fileName: registration}
+    - {fileName: vaccination}
+시험:
     - {fileName: assessment}
 선수과목:
     - {fileName: assessment}
-'선수과목,':
     - {fileName: assist}
-'난이도,':
+prerequisite:
+    - {fileName: assessment}
+난이도:
     - {fileName: class-difficulty}
-RMP:
-    - {fileName: class-difficulty}
-'ESL,':
+ESL:
     - {fileName: esl}
-concurrent:
-    - {fileName: esl}
-enrollment:
-    - {fileName: esl}
-'학점,':
-    - {fileName: grading}
-PNP:
-    - {fileName: grading}
 How-to-Use-DeAnza-Wiki:
     - {fileName: how-to}
 편입:
     - {fileName: how-to-transfer}
+    - {fileName: majorNschool-selection}
 IGETC:
     - {fileName: igetc}
 전공:
@@ -40,7 +38,5 @@ IGETC:
 준비:
     - {fileName: pre-reg}
     - {fileName: vaccination}
-수강신청:
-    - {fileName: registration}
-'원서,':
-    - {fileName: uc-application}
+TAG:
+    - {fileName: tag}

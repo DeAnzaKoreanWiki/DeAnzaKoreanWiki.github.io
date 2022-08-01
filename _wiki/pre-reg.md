@@ -1,6 +1,6 @@
 ---
 layout  : category
-title   : checklist
+title   : 수강신청 체크리스트
 summary : 
 date    : 2022-07-31 09:17:15 +0900
 updated : 2022-07-31 09:17:15 +0900
@@ -19,17 +19,17 @@ De Anza에 처음오신분들은 수강신청전에 몇가지 체크하셔야 �
 <br/><br/>
 
 첫 쿼터라면 어차피 수강신청 우선순위는 아무리 노력해도 기존 재학생보다 늦을 수 밖에 없습니다.  
-그래도 이 문서의 체크리스트를 전부 완료하신다면, 신입생중에서 체크리스트를 안 끝낸 학생들보다는 더 빨리 수강신청을 하실 수 있습니다.  
+그래도 이 문서의 체크리스트트를 전부 완료하신다면, 신입생중에서 체크리스트를 안 끝낸 학생들보다는 더 빨리 수강신청을 하실 수 있습니다.  
 <br/>
 만약 지금이 De Anza에서 두번째 쿼터이거나 또는 기존의 재학생인데 본인의 Priority group이 낮다면 이 문서의 체크리스트를 참조해보세요.  
-
-1.예방접종 증명 제출
-2.[Ed Plan](https://www.deanza.edu/apply-and-register/apply/ed_plan.html)
-3.Educational goal 선택
-4.전공선택
-5.오리엔테이션 참여
-6.[[assessment]]{placement test} 응시
-
+<br/>
+1.예방접종 증명 제출  
+2.[Ed Plan](https://www.deanza.edu/apply-and-register/apply/ed_plan.html)  
+3.Educational goal 선택  
+4.전공선택  
+5.오리엔테이션 참여  
+6.[[assessment]]{placement test} 응시  
+<br/>
 3번 4번은 포털 => Apps => Student Registration => Update My Major/Educational Goal에 가시면 할 수 있습니다.  
 오리엔테이션은 참여 안했다면 advisor에게 메일로 참여 안했는데 수강신청 우선순위가 늦어졌다고 이야기하거나 또는 직접 대면으로 약속잡고 이야기해도 됩니다.  
 Ed plan은 역시 포털에서 진행하시면 됩니다.  

@@ -4,7 +4,7 @@ title   : 접종증명
 summary : 
 date    : 2022-07-29 20:56:17 +0900
 updated : 2022-07-29 20:56:17 +0900
-tag     : 준비
+tag     : 준비 수강신청
 toc     : true
 public  : true
 parent  : 
