@@ -72,11 +72,10 @@ De Anza에 오신분 대부분은 UC편입을 생각하시고 계실겁니다. �
 
 ## Columbia University
 Columbia University는 한 대학안에 대표적으로 세개의 college가 있습니다. 이 세개의 college 모두 Columbia University 소속이며 각 college마다 편입조건이 다릅니다.  
-Columbia College는 BA(bachelor of arts)졸업장을 주는 college입니다. 추천서 2장, SAT 또는 ACT점수, English Proficiency Test(토플 기준 100점 이상), 고등학교 성적표, De Anza 성적, Transfer Report, Curriculum Report, 에세이를 요구합니다.  
-
+<br/>
+- Columbia College는 BA(bachelor of arts)졸업장을 주는 college입니다. 추천서 2장, SAT 또는 ACT점수, English Proficiency Test(토플 기준 100점 이상), 고등학교 성적표, De Anza 성적, Transfer Report, Curriculum Report, 에세이를 요구합니다.  
 - Columbia Engineering
 Columbia Engineering college는 BS(bachelor of science)졸업장을 주는 college입니다. 요구사항은 Columbia College와 같습니다.  
-
 - School of General Studies
 약칭 GS도 세간의 카더라와 달리 정식 학부입니다. 평생교육원이라는 헛소문이 있지만 실제로 Columbia University의 평생교육원은 따로 School of Professional Studies라고 따로 있습니다. 다만 입학하려면 고등학교 졸업이후 1년 이상의 학업 공백이 있어야 합니다. 편입시 추천서 2장, English Proficiency Test(토플 기준 100점 이상), 고등학교 성적표, De Anza 성적, 에세이를 요구합니다.  
 
