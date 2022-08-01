@@ -60,12 +60,12 @@ IGETC의 Area1과 Area2는 알아서 채워졌기에(Area1은 EWRT1A와 EWRT2를
 
 ## 타주또는 UC가 아닌경우
 UC가 아닌 타주의 경우 Assist와 원서 작성시기만 다르고 나머지는 똑같습니다. 다만 IGETC을 타주 대학에서 받는지는 대학마다 다릅니다.  
-타주의 경우 Assist대신 Transferology를 참고하시거나 목표하는 대학 Admission office에 연락을 취해서 전공선수과목을 알아보시면 됩니다.  
+타주의 경우 Assist대신 [Transferology](https://transferology.com/login.htm)를 참고하시거나 목표하는 대학 Admission office에 연락을 취해서 전공선수과목을 알아보시면 됩니다.  
 타주의 경우 원서 작성시기는 주로 2-3월이며 입학은 원서를 작성한 해의 가을학기에 합니다.  
 <br/>
 ![otherStateex1](https://user-images.githubusercontent.com/108209464/181668837-5075d3b7-51dd-4656-be77-680068a4be8a.PNG)  
 현재가 2022년 봄쿼터가 가정하고 타주또는 UC가 아닌 대학에 2023년 가을에 편입한다고 가정했을때 플랜은 위와 같습니다.  
-De Anza 겨울쿼터가 1-3월 사이이니 원서는 내년 2023년 겨울(2023년 1월부터 3월사이)에 접수할것이고 2023년 가을에 편입학하게 됩니다.
+De Anza 겨울쿼터가 1-3월 사이이고 내년 2023년 겨울(2023년 1월부터 3월사이)에 접수한다면 2023년 가을에 편입학하게 됩니다.
 
 
 # 각주
