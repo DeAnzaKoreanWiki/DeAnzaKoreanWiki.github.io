@@ -8,7 +8,7 @@ tag     :
 toc     : true
 public  : true
 parent  : 
-latex   : false
+latex   : true
 ---
 * TOC
 {:toc}
