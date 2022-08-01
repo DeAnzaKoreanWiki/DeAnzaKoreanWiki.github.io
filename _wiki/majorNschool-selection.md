@@ -77,7 +77,7 @@ Columbia University는 한 대학안에 대표적으로 세개의 college가 있
 - Columbia Engineering
 Columbia Engineering college는 BS(bachelor of science)졸업장을 주는 college입니다. 요구사항은 Columbia College와 같습니다.  
 - School of General Studies
-약칭 GS도 세간의 카더라와 달리 정식 학부입니다. 평생교육원이라는 헛소문이 있지만 실제로 Columbia University의 평생교육원은 따로 School of Professional Studies라고 따로 있습니다. 다만 입학하려면 고등학교 졸업이후 1년 이상의 학업 공백이 있어야 합니다. 편입시 추천서 2장, English Proficiency Test(토플 기준 100점 이상), 고등학교 성적표, De Anza 성적, 에세이를 요구합니다.  
+약칭 GS도 세간의 카더라와 달리 정식 학부입니다. 평생교육원이라는 카더라가 있지만 실제로 Columbia University의 평생교육원은 따로 School of Professional Studies라고 따로 있습니다.  졸업하면 BA(bachelor of arts)학위를 받습니다. 다만 입학하려면 고등학교 졸업이후 1년 이상의 학업 공백이 있어야 합니다. 편입시 추천서 2장, English Proficiency Test(토플 기준 100점 이상), 고등학교 성적표, De Anza 성적, 에세이를 요구합니다.  
 
 ## Cornell University
 Columbia University와는 다르게 고등학교 성적을 조금 더 봅니다. 편입조건중 SAT와 ACT는 단과대학(college)마다 상이하며 나머지 English Proficiency Test(토플 기준 100점 이상), 고등학교 성적표, De Anza 성적, Academic Evaluation (CA), Registrar Report (College Report), Mid-Term Report, 그리고 에세이를 준비하면 됩니다.  
