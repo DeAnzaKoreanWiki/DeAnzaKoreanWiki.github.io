@@ -39,38 +39,64 @@ IGETC은 De Anza에서 다 이수할 수 있으며 "하나의 과목"이 아니�
 ![image](https://user-images.githubusercontent.com/108209464/182012733-d22a5d72-26e8-40a1-830f-ebf6d414259a.png)  
 위 사진은 Area3 리스트입니다. 여기서 총 3개의 수업을 들으면 되나 최소한 한개는 3A에서 그리고 3B에서 들은 수업이 있어야 합니다.  
 예를들어 수업 두개를 3A에서 들었다면 남은 하나는 3B에서 들어야하며 반대로 수업 두개를 3B에서 들었다면 최소한 하나는 3A에서 들어야 하는것입니다.  
-다시말해, 3A의 ARTS에서 ARTS1A, ARTS1B, ARTS2A 이렇게 세개를 듣는것은 Area3 이수조건 충족이 안됩니다. 3B 수업이 없기때문입니다.  
+다시말해, 3A의 ARTS에서 ARTS 1A, ARTS 1B, ARTS 2A 이렇게 세개를 듣는것은 Area3 이수조건 충족이 안됩니다. 3B 수업이 없기때문입니다.  
 <br/>
 가능한 조합 예시:<br/>
 3A 두개&3B 하나
-ARTS1A(3A), ARTS1B(3A), PHIL1(3B)  
-ARTS1A(3A), ARTS1B(3A), PHIL2(3B)  
-ARTS2C(3A), THEA1(3A), PHIL2(3B)  
-ARTS2C(3A), THEA1(3A), PHIL2(3B)  
-DANC38A(3A), HUMI1(3A)[^3], WMST8(3B)  
-HUMI1(3A), HUMI7(3A)[^3], WMST8(3B)  
-HUMI1(3A), HUMI7(3A)[^3], HUMI9(3B)  
+ARTS 1A(3A), ARTS 1B(3A), PHIL 1(3B)  
+ARTS 1A(3A), ARTS 1B(3A), PHIL 2(3B)  
+ARTS 2C(3A), THEA 1(3A), PHIL 2(3B)  
+ARTS 2C(3A), THEA 1(3A), PHIL 2(3B)  
+DANC 38A(3A), HUMI 1(3A)[^3], WMST 8(3B)  
+HUMI 1(3A)[^3], PHTG 7(3A), WMST 8(3B)  
+HUMI 1(3A)[^3], ICS 5(3A), HUMI 9(3B)  
 <br/>
 3B 두개&3A 하나
-DANC38A(3A), HUMI1(3B)[^3], WMST8(3B)  
-HUMI1(3A), HUMI7(3B)[^3], WMST8(3B)  
-HUMI1(3A), HUMI7(3B)[^3], HUMI9(3B)  
-F/TV1(3A), FREN3(3B), HIST3A(3B)  
+DANC 38A(3A), HUMI 1(3B), WMST 8(3B)  
+HUMI 1(3B)[^3], PHTG 7(3A), WMST 8(3B)  
+HUMI 1(3B)[^3], ICS 5(3A), HUMI 9(3B)  
+F/TV 1(3A), FREN 3(3B), HIST 6A(3B)  
 <br/><br/>
 불가능한 조합 예시:
-ARTS2C(3A), ARTS2D(3A), MUSI1A(3A) => 3A만 세개  
-INTL21(3A), ES3(3A), ASAM40(3A) => 3A만 세개  
-ASAM20(3B), ELIT8(3B), WMST21(3B) => 3B만 세개  
+ARTS 2C(3A), ARTS 2D(3A), MUSI 1A(3A) => 3A만 세개  
+INTL 21(3A), ES 3(3A), ASAM 40(3A) => 3A만 세개  
+ASAM 20(3B), ELIT 8(3B), WMST 21(3B) => 3B만 세개  
 
 ## Area4
 ![image](https://user-images.githubusercontent.com/108209464/182013317-7efc6578-4faf-4887-b0b7-d385c1532f7e.png)  
-위 사진은 Area4 리스트입니다. 그런데 여기서 눈치채셨을 수도 있겠지만 WMST8 그리고 HIST3A 같은경우 Area3에도 있었습니다.  
-그러면 WNST8이랑 HIST3A 이 두개를 들으면 Area3도 Area4도 둘다 한번에 충족시킬 수 있을까요?  
-정답은 "아니요"입니다. 이렇게 Area간 중복되는 수업은 Area 하나만 충족시킬 수 있습니다.  
-이렇게 중복되는 경우는 그냥 편하신대로 조합을 만들면 됩니다.
+위 사진은 Area4 리스트입니다. 그런데 여기서 눈치채셨을 수도 있겠지만 WMST 8 그리고 HIST 6A 같은경우 Area3에도 있었습니다.  
+이처럼 Area 두개 이상을 만족시키는 수업은 #표시가 붙으며 위에 HUMI 1이 3A 그리고 3B를 유연하게 왔다갔다 할 수 있었던것과 똑같습니다.  
+즉, #표시가 붙은 수업은 일단 들어두면 나중에 원하는대로 어떤 Area에 넣을지 선택할 수 있습니다.  
+Area4의 이수조건은 3개의 수업을 최소 2개이상의 분과에서 선택하여야 합니다.  
+이 말인 즉슨, 수업 3개를 전부 PSYC(심리학), ECON(경제학), ANTH(인류학), SOC(사회학)등등 에서만 들으면 안된다는 것이며 최소한 두가지 이상의 분과를 선택하셔야합니다.  
+다시말해 Area3에서 수업 3개중 최소한 3A, 3B두가지 소속의 수업을 듣게하는것과 비슷하다고 할 수 있습니다.  
+<br/>
+가능한 조합 예시:
+PSYC 1, PSYC 2, SOC 1  
+PSYC 1, ECON 1, ANTH 2  
+ANTH 2, ANTH 3, ICS 17  
+<br/><br/>
+불가능한 조합 예시:
+PSYC 1, PSYC 2, PSYC 3
+ECON 1, ECON 2, ECON 3
+ANTH 2, ANTH 3, ANTH 4  
+
+## Area5
+![image](https://user-images.githubusercontent.com/108209464/182068637-c7c05260-d7bc-41e7-abb7-1a34f40821e6.png)  
+위 사진은 Area5 리스트입니다. 여기서는 5A(Physical Science)영역에서 하나 그리고 5B(Biological Science)영역에서 하나를 들으셔야하며 이렇게 총합 두개를 들으셔야합니다.  
+그리고 수업 두개를 들으실때 그중 하나는 랩수업이 포함되어있어야 합니다. 랩수업이 포함되어 있는것은 수업이름 밑에 밑줄이 쳐져 있습니다.
+
+# IGETC 이수 안해도 되는가?
+안해도 되는 경우가 있습니다. 예를들어 UC Berkeley College of Engineering 소속의 전공은 IGETC을 요구하지 않습니다. 또한 Berkeley College of Engineering에서도 IGETC 이수를 권장하지 않습니다[^4].  
+하지만 UCLA같은 경우 똑같은 공과대학인 Henry Samueli School of Engineering and Applied Science에서는 IGETC을 필요로하지는 않으나 이수하면 좋다 라는 입장입니다[^5].  
+UC 전반적으로 Engineering 분야의 전공들은 IGETC요구를 하지 않는 경향이 있으나 자세한것은 구글에 학교이름 + 전공 + igetc 키워드로 검색해보시길 바랍니다(예: UCSD computer engineering igetc).  
+
+
 
 
 # 각주
 [^1]: UC Berkeley의 단과대학으로 문리과대학으로 변역가능
 [^2]: 정확히는 "편입전 봄학기"(편입은 봄학기 다음인 가을학기에 편입하기때문)까지 이수할 수 있는가를 묻는 문항
-[^3]: HUMI 수업은 3A와 3B로 양쪽 다 인정됩니다. 이렇게 둘다 인정되는 경우에는 3A나 3B 어느쪽으로 생각하셔도 무방합니다. 다시말해, HUMI만 3개 들으셔도 된다는 의미입니다. 알아서 3A 두개&3B 하나 또는 3B 두개&3A 하나 조합으로 인정됩니다.
+[^3]: HUMI1 수업은 3A와 3B로 양쪽 다 인정됩니다. 이렇게 둘다 인정되는 경우에는 3A나 3B 어느쪽에 분류하시든 무방합니다. 즉, HUMI1은 일단 들어둔다면 나중에 유연하게 3A 또는 3B에 마음대로 집어넣을 수 있습니다.  
+[^4]: 출처: https://engineering.berkeley.edu/admissions/undergraduate-admissions/junior-transfers/, 이 링크말고도 Assist에서 Berkeley College of Engineering 소속의 어떤 전공을 찾아보든지간에 IGETC은 권장하지 않는다고 적혀있습니다.
+[^5]: 출처: https://admission.ucla.edu/apply/transfer/deciding-on-major/major-preparation-engineering, 이 링크말고도 Assist에서 Engineering 소속의 어떤 전공을 찾아보든지간에 IGETC은 필요로 하지는 않으나 beneficial이라고 적혀있습니다.
