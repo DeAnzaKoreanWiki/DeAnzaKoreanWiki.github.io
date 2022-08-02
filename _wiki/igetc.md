@@ -72,14 +72,14 @@ Area4의 이수조건은 3개의 수업을 최소 2개이상의 분과에서 선
 다시말해 Area3에서 수업 3개중 최소한 3A, 3B두가지 소속의 수업을 듣게하는것과 비슷하다고 할 수 있습니다.  
 <br/>
 가능한 조합 예시:
-PSYC 1, PSYC 2, SOC 1  
-PSYC 1, ECON 1, ANTH 2  
-ANTH 2, ANTH 3, ICS 17  
+PSYC 1, PSYC 2, SOC 1<br/>
+PSYC 1, ECON 1, ANTH 2<br/>
+ANTH 2, ANTH 3, ICS 17<br/>
 <br/><br/>
 불가능한 조합 예시:
-PSYC 1, PSYC 2, PSYC 3
-ECON 1, ECON 2, ECON 3
-ANTH 2, ANTH 3, ANTH 4  
+PSYC 1, PSYC 2, PSYC 3<br/>
+ECON 1, ECON 2, ECON 3<br/>
+ANTH 2, ANTH 3, ANTH 4<br/>
 
 ## Area5
 ![image](https://user-images.githubusercontent.com/108209464/182068637-c7c05260-d7bc-41e7-abb7-1a34f40821e6.png)  
@@ -98,5 +98,5 @@ UC 전반적으로 Engineering 분야의 전공들은 IGETC요구를 하지 않�
 [^1]: UC Berkeley의 단과대학으로 문리과대학으로 변역가능
 [^2]: 정확히는 "편입전 봄학기"(편입은 봄학기 다음인 가을학기에 편입하기때문)까지 이수할 수 있는가를 묻는 문항
 [^3]: HUMI1 수업은 3A와 3B로 양쪽 다 인정됩니다. 이렇게 둘다 인정되는 경우에는 3A나 3B 어느쪽에 분류하시든 무방합니다. 즉, HUMI1은 일단 들어둔다면 나중에 유연하게 3A 또는 3B에 마음대로 집어넣을 수 있습니다.  
-[^4]: 출처: https://engineering.berkeley.edu/admissions/undergraduate-admissions/junior-transfers/, 이 링크말고도 Assist에서 Berkeley College of Engineering 소속의 어떤 전공을 찾아보든지간에 IGETC은 권장하지 않는다고 적혀있습니다.
-[^5]: 출처: https://admission.ucla.edu/apply/transfer/deciding-on-major/major-preparation-engineering, 이 링크말고도 Assist에서 Engineering 소속의 어떤 전공을 찾아보든지간에 IGETC은 필요로 하지는 않으나 beneficial이라고 적혀있습니다.
+[^4]: [출처](https://engineering.berkeley.edu/admissions/undergraduate-admissions/junior-transfers/) 이 링크말고도 Assist에서 Berkeley College of Engineering 소속의 어떤 전공을 찾아보든지간에 IGETC은 권장하지 않는다고 적혀있습니다.
+[^5]: [출처](https://admission.ucla.edu/apply/transfer/deciding-on-major/major-preparation-engineering) 이 링크말고도 Assist에서 Engineering 소속의 어떤 전공을 찾아보든지간에 IGETC은 필요로 하지는 않으나 beneficial이라고 적혀있습니다.
