@@ -46,7 +46,7 @@ Syllabus는 그 수업이 어떻게 흘러갈지를 예측할 수 있게 해줍�
 1. [De Anza 제공 Syllabus](https://www.deanza.edu/psme/syllabi/)
 2. [Syl](http://syl.deanza.edu/)  
 <br/>
-알고자 하는 수업의 syllabus가 위 사이트에 없을경우 구글에 De Anza 수업이름 syllabus 키워드로 검색해보시는걸 권장해드립니다.
+알고자 하는 수업의 syllabus가 위 사이트에 없을경우 구글에 De Anza + 수업이름 + syllabus(ex: De Anza ANTH1 syllabus) 키워드로 검색해보시는걸 권장해드립니다.
 
 # 수업 정보를 알아볼때 주의할점
 수업 정보를 알아보는것은 좋지만 공부는 하지 않고 수업정보만 알아보는것이 여러분의 성적을 올려주지 못합니다.  
