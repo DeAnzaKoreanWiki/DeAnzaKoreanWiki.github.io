@@ -58,6 +58,24 @@ PNP 학점체계에서, NP는 C미만의 점수를 의미합니다.
 단점은 장점이 그대로 꺼꾸로하면 단점이 됩니다. A를 받는것도 C를 받는것과 똑같아지기에 일부 타주 대학에서 P점수를 C로 간주하는 경우도 있습니다.  
 그렇기에 전공선수과목은 왠만해선 PNP로 듣지 말아야하며, UC편입을 생각하신다면 transferable 교양과목도 PNP는 피하는것이 좋습니다.  
 
+### PNP로 학점을 받는법
+Letter Grade와는 달리 PNP는 따로 PNP로 학점을 받겠다고 해야만 PNP학점을 받을 수 있습니다.  
+아래는 PNP학점을 받는 방법 두가지를 정리한것입니다.  
+<br/>
+1.수강신청할때 또는 수업 시작전에 하는방법:<br/>
+![image](https://user-images.githubusercontent.com/108209464/182289518-a22fd362-e395-408f-8626-f90ca1f90d38.png)  
+위 사진은 포털 => Apps => Student Registration => Add or Drop에 들어가면 보이는 화면입니다.  
+Grade Mode 아래에 Normal Grade Rules을 누르시고 다음 화면에서 Pass/No Pass로 바꾸신다음에 Submit Changes를 누르시면 끝납니다.  
+수접 시작전까진 얼마든지 Normal Grade(Letter Grade)와 Pass/No Pass 사이에서 바꾸실 수 있습니다.  
+2.수업 시작 이후에 바꾸는방법:<br/>
+이 방법은 마지막 수업날까지 가능한 방법으로써 마지막 수업날이 지나면 할 수 없습니다.  
+[이 링크](https://www.deanza.edu/apply-and-register/register/passnopass.html#how)에 가셔서 De Anza Pass/No Pass form을 작성하십시오.  
+De Anza Pass/No Pass form은 How to Request Pass/No Pass메뉴에서 AFTER REGISTERATION 메뉴의 De Anza Pass/No Pass form 링크를 클릭하시면 찾을 수 있습니다.  
+이후 이름, Student ID(8자리 숫자), 현재쿼터, Pass/No Pass(PNP)로 바꿀 수업명 입력, 본인 이메일, 사인을 입력하면 제출할 수 있게끔 버튼이 자동을 뜹니다.  
+제출하시면 입력했던 본인 이메일로 확인 이메일이 오니 확인하시면 됩니다.  
+주의하실점은 이 방법으로 한번 PNP로 바꾸시면 다시 Letter grade로는 바꿀 수 없습니다.  
+
+
 # 각주
 [^1]: A, B, C, D등의 학점을 뜻함.  
 [^2]: 한국어로 이수단위, 수업시수등을 뜻함.  
