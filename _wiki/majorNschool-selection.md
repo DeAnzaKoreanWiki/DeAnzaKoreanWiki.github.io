@@ -42,12 +42,11 @@ STEM(Science, Technology, Engineering, Math)전공을 두고 취업이 잘된다
 각각 학교 이름을 입력하시고 비교해보시면 양쪽을 다 지원한 지원자의 몇 퍼센트가 어떤 학교를 선택했는지 나타나며 데이터가 충분치 않을때는 검정색(오차범위 밖) 데이터가 충분할때(오차범위 안)는 우위에 있는 학교가 초록색 그렇지 않은 학교가 빨간색으로 표시됩니다.
 <br/>
 
- - 주의
-서열을 알아보실때 가능한 고우해커스와 Reddit등과 같이 카더라가 많은 사이트는 피하시길 바랍니다. 여기에 떠도는 카더라는 여러분의 결정을 책임져줄 수도 도와줄 수도 없습니다.
+ - 주의: 서열을 알아보실때 가능한 고우해커스와 Reddit등과 같이 카더라가 많은 사이트는 피하시길 바랍니다. 여기에 떠도는 카더라는 여러분의 결정을 책임져줄 수도 도와줄 수도 없습니다.
 
 # 전공별 분석
 
-여기서는 각 전공별로 무엇을 배우고 UC기준으로 편입과정은 어떻게 되는지 등을 적어두었습니다. 작성자의 지식의 한계로 모든 전공을 다루지는여 못했으나 최대한 많이 수록하였습니다.  
+여기서는 각 전공별로 무엇을 배우고 UC기준으로 편입과정은 어떻게 되는지 등을 적어두었습니다. 작성자의 지식의 한계로 모든 전공을 다루지는 못했으나 최대한 많이 수록하였습니다.  
 또한 각 전공별로 인기가 상이하며 그렇기에 각 전공별로 경쟁률(Admit rate, 직역하면 합격률)이 다릅니다. 합격률 관련 정보는 [[admit-rate]]{여기}를 보시면 됩니다.  
 
 
@@ -77,7 +76,7 @@ Columbia University는 한 대학안에 대표적으로 세개의 college가 있
 - Columbia Engineering
 Columbia Engineering college는 BS(bachelor of science)졸업장을 주는 college입니다. 요구사항은 Columbia College와 같습니다.  
 - School of General Studies
-약칭 GS도 세간의 카더라와 달리 정식 학부입니다. 평생교육원이라는 카더라가 있지만 실제로 Columbia University의 평생교육원은 따로 School of Professional Studies라고 따로 있습니다.  졸업하면 BA(bachelor of arts)학위를 받습니다. 다만 입학하려면 고등학교 졸업이후 1년 이상의 학업 공백이 있어야 합니다. 편입시 추천서 2장, English Proficiency Test(토플 기준 100점 이상), 고등학교 성적표, De Anza 성적, 에세이를 요구합니다.  
+약칭 GS도 세간의 카더라와 달리 정식 학부입니다. 평생교육원이라는 카더라가 있지만 실제로 Columbia University의 평생교육원은 따로 School of Professional Studies라고 따로 있습니다.  GS도 다른 College처럼 졸업하면 BA(bachelor of arts)학위를 받습니다 다만 라틴어로 졸업장이 나오는 Columbia College와는 달리 GS는 영어로 졸업장이 나옵니다. GS에 입학하려면 고등학교 졸업이후 1년 이상의 학업 공백이 있어야  편입시 추천서 2장, English Proficiency Test(토플 기준 100점 이상), 고등학교 성적표, De Anza 성적, 에세이를 요구합니다.  
 
 ## Cornell University
 Columbia University와는 다르게 고등학교 성적을 조금 더 봅니다. 편입조건중 SAT와 ACT는 단과대학(college)마다 상이하며 나머지 English Proficiency Test(토플 기준 100점 이상), 고등학교 성적표, De Anza 성적, Academic Evaluation (CA), Registrar Report (College Report), Mid-Term Report, 그리고 에세이를 준비하면 됩니다.  
