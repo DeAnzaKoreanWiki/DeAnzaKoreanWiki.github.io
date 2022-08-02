@@ -71,12 +71,12 @@ Area4의 이수조건은 3개의 수업을 최소 2개이상의 분과에서 선
 이 말인 즉슨, 수업 3개를 전부 PSYC(심리학), ECON(경제학), ANTH(인류학), SOC(사회학)등등 에서만 들으면 안된다는 것이며 최소한 두가지 이상의 분과를 선택하셔야합니다.  
 다시말해 Area3에서 수업 3개중 최소한 3A, 3B두가지 소속의 수업을 듣게하는것과 비슷하다고 할 수 있습니다.  
 <br/>
-가능한 조합 예시:
+가능한 조합 예시:<br/>
 PSYC 1, PSYC 2, SOC 1<br/>
 PSYC 1, ECON 1, ANTH 2<br/>
 ANTH 2, ANTH 3, ICS 17<br/>
 <br/><br/>
-불가능한 조합 예시:
+불가능한 조합 예시:<br/>
 PSYC 1, PSYC 2, PSYC 3<br/>
 ECON 1, ECON 2, ECON 3<br/>
 ANTH 2, ANTH 3, ANTH 4<br/>
