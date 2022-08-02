@@ -44,7 +44,7 @@ RMP는 크게 Overall Quality(평점), Level of Difficulty(난이도) 두가지 
 # Syllabus
 Syllabus는 그 수업이 어떻게 흘러갈지를 예측할 수 있게 해줍니다. 아래 사이트는 De Anza Syllabus를 모아둔 사이트입니다.
 1. [De Anza 제공 Syllabus](https://www.deanza.edu/psme/syllabi/)
-2. [Syl](http://syl.deanza.edu/)
+2. [Syl](http://syl.deanza.edu/)  
 <br/>
 알고자 하는 수업의 syllabus가 위 사이트에 없을경우 구글에 De Anza 수업이름 syllabus 키워드로 검색해보시는걸 권장해드립니다.
 
