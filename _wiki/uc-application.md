@@ -33,7 +33,7 @@ Ex: 2024년 가을(8-9월 사이)편입을 하고 싶을경우 2023년 11월까�
 ![image](https://user-images.githubusercontent.com/108209464/182030540-2f50d49b-c12b-4c1e-b792-2c85d3c92b3a.png)  
 위 그림은 원서사이트에서 캡쳐한 사진입니다.  
 
- ### About you
+### About you
 여기서는 본인의 인종, 이름, 생년월일, 비자 상태, 집 주소, 집안 소득, 부모님의 교욱 수준등을 기입합니다.  
 일부 카더라중에서 UC는 affirmative action[^1]을 시행하기때문에 인종이 합불에 영향을 미친다라는 카더라가 있습니다.  
 하지만 UC는 인종별 affirmative action을 시행하지 않습니다[^2].
