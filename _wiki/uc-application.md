@@ -3,7 +3,7 @@ layout  : wiki
 title   : UC 원서
 summary : 
 date    : 2022-07-28 01:14:20 +0900
-updated : 2022-07-28 01:14:20 +0900
+updated : 2022-08-08 00:11:20 +0900
 tag     : 원서 UC
 toc     : true
 public  : true
@@ -14,7 +14,7 @@ latex   : false
 {:toc}
 
 # 이것이 바로 UC 원서! 
-대다수의 De Anza 학생들이 목표로 하는것은 UC 캠퍼스중 하나에 편입하는것입니다. 그 만큼 UC원서가 어떻게 생겼고 어떻게 쓰면 되는지 그리고 언제 제출하는지 그리고 마지막으로 원서에 관한 카더라도 같이 다룹니다.  
+대다수의 De Anza 학생들이 목표로 하는것은 UC 캠퍼스중 하나에 편입하는것입니다. 그 만큼 UC원서가 어떻게 생겼고 어떻게 쓰면 되는지 그리고 언제 제출하는지를 알 필요가 있을것입니다. 그리고 마지막으로 이 문서에선 원서에 관한 카더라도 같이 다룹니다.  
 
 ## 원서 작성 시기
 UC의 경우 다른 대학과는 달리 원서를 일찍 받습니다. 예를들어 당신이 내년 가을에 편입한다면 원서는 올해 11월까지는 적어서 제출해야합니다.  
@@ -45,8 +45,11 @@ Alternative major란 한국어로 번역하면 2지망 전공으로써, major로
 Berkeley는 alternative major를 아예 선택할 수 없으며 UCLA는 선택할 수는 있으나 [TAP](https://admission.ucla.edu/apply/transfer/ucla-transfer-alliance-program)를 하지 않으신다면 alternative major를 심사하지 않습니다.
 
 ### Academic Histroy
-여기선 어떤 고등학교에 재학했는지 그리고 여태껏 다녔던 대학의 성적을 입력합니다.  
-성적표를 제출할 필요는 없으며 스스로 직접 성적을 입력하셔야 하며, 여기서 거짓으로 입력하실경우 나중에 문제가 될 수 있습니다.  
+여기선 어떤 고등학교에 재학했는지를 적고 그리고 여태껏 다녔던 대학의 성적을 입력합니다.  
+대학 성적표를 제출할 필요는 없으며 스스로 직접 성적을 입력하셔야 하며[^5], 여기서 거짓으로 입력하실경우 나중에 문제가 될 수 있습니다.  
+고등학교 성적은 원서를 쓰는 시점에 적지 않습니다. 다만 합격 이후에 사람에 따라 고등학교 성적을 제출해야 하는 경우가 있습니다.  
+일부 카더라중에 고등학교 성적도 편입에 영향을 미친다고 하는 경우가 있지만, 원서를 내고 심사할때도 고등학교 성적 자체를 제출을 하지 않기에 UC에서는 아무리 보고 싶어도 고등학교 성적을 볼 수가 없습니다.  
+<
 성적입력할때 transferable course는 검색하면 알아서 뜨지면 non-transferable course는 검색해도 안뜨기에 직접 타자로 입력하셔야 합니다.  
 만약 원서 작성이 이전에 [[tag]]{TAG}를 지원하셨다면 TAP[^3]에서 성적을 입력하셨을것이며 거기서 불러오는것도 가능합니다.  
 마지막으로 Gap year가 있을경우 여기서 관련 내용을 기입할 수 있습니다.  
@@ -99,3 +102,5 @@ Berkeley는 alternative major를 아예 선택할 수 없으며 UCLA는 선택�
 [^2]: 출처 Proposition 209  
 [^3]: [UCLA TAP](https://admission.ucla.edu/apply/transfer/ucla-transfer-alliance-program)와는 다릅니다! UCLA TAP는 Transfer Alliance Program의 약자이고 TAG의 TAP는 Transfer Academic Planner의 약자입니다.  
 [^4]: [출처링크](https://mailchi.mp/ucop/uc-counselors-and-advisers-bulletin-november-2021), UC Application Verification 문단  
+[^5]: 성적표를 제출하지 않고 어떻게 편입 심사를 하나 의아해하실 수 있으나, 성적표는 합격 발표 이후에 갈 학교로 제출합니다. 따라서, 거짓으로 입력하면 문제가 될 수 있는것입니다.  
+[^6]: 여기서 고등학교 성적이 편입에 영향을 미칠 수도 있
