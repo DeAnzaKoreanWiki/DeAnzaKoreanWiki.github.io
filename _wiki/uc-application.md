@@ -49,7 +49,7 @@ Berkeley는 alternative major를 아예 선택할 수 없으며 UCLA는 선택�
 대학 성적표를 제출할 필요는 없으며 스스로 직접 성적을 입력하셔야 하며[^5], 여기서 거짓으로 입력하실경우 나중에 문제가 될 수 있습니다.  
 고등학교 성적은 원서를 쓰는 시점에 적지 않습니다. 다만 합격 이후에 사람에 따라 고등학교 성적을 제출해야 하는 경우가 있습니다.  
 일부 카더라중에 고등학교 성적도 편입에 영향을 미친다고 하는 경우가 있지만, 원서를 내고 심사할때도 고등학교 성적 자체를 제출을 하지 않기에 UC에서는 아무리 보고 싶어도 고등학교 성적을 볼 수가 없습니다.  
-<
+<br/>
 성적입력할때 transferable course는 검색하면 알아서 뜨지면 non-transferable course는 검색해도 안뜨기에 직접 타자로 입력하셔야 합니다.  
 만약 원서 작성이 이전에 [[tag]]{TAG}를 지원하셨다면 TAP[^3]에서 성적을 입력하셨을것이며 거기서 불러오는것도 가능합니다.  
 마지막으로 Gap year가 있을경우 여기서 관련 내용을 기입할 수 있습니다.  
@@ -103,4 +103,3 @@ Berkeley는 alternative major를 아예 선택할 수 없으며 UCLA는 선택�
 [^3]: [UCLA TAP](https://admission.ucla.edu/apply/transfer/ucla-transfer-alliance-program)와는 다릅니다! UCLA TAP는 Transfer Alliance Program의 약자이고 TAG의 TAP는 Transfer Academic Planner의 약자입니다.  
 [^4]: [출처링크](https://mailchi.mp/ucop/uc-counselors-and-advisers-bulletin-november-2021), UC Application Verification 문단  
 [^5]: 성적표를 제출하지 않고 어떻게 편입 심사를 하나 의아해하실 수 있으나, 성적표는 합격 발표 이후에 갈 학교로 제출합니다. 따라서, 거짓으로 입력하면 문제가 될 수 있는것입니다.  
-[^6]: 여기서 고등학교 성적이 편입에 영향을 미칠 수도 있
